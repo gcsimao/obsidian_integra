@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-            "MPRJ": "https://www.mprj.mp.br/home",
+            "Ministério Público do Estado do Rio de Janeiro": "https://www.mprj.mp.br/home",
     },
   }),
 }

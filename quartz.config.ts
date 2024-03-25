@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Integra Extrajudicial - Manual do Usuário",
+    pageTitle: "Integra Extrajudicial",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
