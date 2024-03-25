@@ -1,7 +1,7 @@
 ---
 title: Tabela de movimentos integrados ao MGP
 tags:
-  - IntegraçãoMGP
+  - tags/IntegraçãoMGP
 ---
 # Tabela de movimentos integrados ao MGP
 
@@ -69,15 +69,8 @@ Os seguintes movimentos e ações já estão [[Integração com o MGP|integrados
 | 920023     | SERVIDOR >> Encaminhamento ao Membro                                                                                                                                                              | Procedimento >Botão Abrir Conclusão                       |
 | 920056     | MEMBRO >> Despacho >> Decretação de Sigilo                                                                                                                                                        | Dados do Procedimento >  Botão Sigiloso                   |
 | 1000428    | MEMBRO >> Despacho >> Levantamento de Sigilo                                                                                                                                                      | Dados do Procedimento >  Botão Sigiloso                   |
-# Referências 
 
-**Ver também:** #noRefYet 
 
-**Links para esta página:**
-```dataview
-list
-where contains(file.outlinks, this.file.link)
-```
 
 
 

@@ -66,12 +66,5 @@ Os seguintes formatos de arquivos de geolocalização são suportados pelo siste
 | Extensão | Tamanho (MB) |
 | -------- | ------------ |
 | kml      | 5            |
-# Referências
-
+___
 **Ver também:** [[Juntada de Documentos e Mídias]], [[Sharepoint, OneDrive e outros repositórios de arquivos]]
-
-**Links para esta página**:
-```dataview
-list
-where contains(file.outlinks, this.file.link)
-```

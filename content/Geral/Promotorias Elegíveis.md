@@ -373,12 +373,4 @@ title: Promotorias Elegíveis
 | CRAAI VOLTA REDONDA   | PROMOTORIA DE JUSTIÇA DE PINHEIRAL                                                                         |
 | CRAAI VOLTA REDONDA   | PROMOTORIA DE JUSTIÇA DE PORTO REAL/QUATIS                                                                 |
 | CRAAI VOLTA REDONDA   | PROMOTORIA DE JUSTIÇA DE RIO CLARO                                                                         |
-# Referências 
 
-**Ver também:** #noRefYet
-
-**Links para esta página:**
-```dataview
-list
-where contains(file.outlinks, this.file.link)
-```
