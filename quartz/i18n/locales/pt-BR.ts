@@ -22,15 +22,15 @@ export default {
       quote: "Citação",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "Sem backlinks encontrados",
+      title: "Links para esta página",
+      noBacklinksFound: "Sem links encontrados",
     },
     themeToggle: {
       lightMode: "Tema claro",
       darkMode: "Tema escuro",
     },
     explorer: {
-      title: "Explorador",
+      title: "Conteúdo",
     },
     footer: {
       createdWith: "Criado com",
@@ -48,7 +48,7 @@ export default {
     },
     search: {
       title: "Pesquisar",
-      searchBarPlaceholder: "Pesquisar por algo",
+      searchBarPlaceholder: "Começe a digita para pesquisar",
     },
     tableOfContents: {
       title: "Sumário",
