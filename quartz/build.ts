@@ -409,8 +409,3 @@ export default async (argv: Argv, mut: Mutex, clientRefresh: () => void) => {
     trace("\nExiting Quartz due to a fatal error", err as Error)
   }
 }
-
-let element = document.getElementById('footnotes');
-if (element && element.classList.contains('sr-only')) {
-    element.textContent = 'Notas';
-}
