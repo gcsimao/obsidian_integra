@@ -3,23 +3,23 @@ title: Tipos de Arquivos Suportados
 ---
 # Lista de Extensões Suportadas
 
-| Extensão | Tamanho (MB) | Tipo de Arquivo                                                                         |
-| -------- | ------------ | --------------------------------------------------------------------------------------- |
-| pdf      | 30           | [[Tipos de Arquivos Suportados#Arquivos de Texto\|Texto]]                               |
-| txt      | 100          | [[Tipos de Arquivos Suportados#Arquivos de Texto\|Texto]]                               |
-| webp     | 5            | [[Tipos de Arquivos Suportados#Arquivos de Imagem\|Imagem]]                             |
-| gif      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Imagem\|Imagem]]                             |
-| bmp      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Imagem\|Imagem]]                             |
-| jpeg     | 5            | [[Tipos de Arquivos Suportados#Arquivos de Imagem\|Imagem]]                             |
-| jpg      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Imagem\|Imagem]]                             |
-| png      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Imagem\|Imagem]]                             |
-| mp3      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Áudio\|Áudio]]                               |
-| ogg      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Áudio\|Áudio]]                               |
-| wav      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Áudio\|Áudio]]                               |
-| dpc      | 100          | [[Tipos de Arquivos Suportados#Arquivos de Escrituração Digital\|Escrituração Digital]] |
-| rec      | 100          | [[Tipos de Arquivos Suportados#Arquivos de Escrituração Digital\|Escrituração Digital]] |
-| sped     | 100          | [[Tipos de Arquivos Suportados#Arquivos de Escrituração Digital\|Escrituração Digital]] |
-| kml      | 5            | [[Tipos de Arquivos Suportados#Arquivos de Geolocalização\|Geolocalização]]             |
+| Extensão | Tamanho (MB) | Tipo de Arquivo      |
+| -------- | ------------ | -------------------- |
+| pdf      | 30           | Texto                |
+| txt      | 100          | Texto                |
+| webp     | 5            | Imagem               |
+| gif      | 5            | Imagem               |
+| bmp      | 5            | Imagem               |
+| jpeg     | 5            | Imagem               |
+| jpg      | 5            | Imagem               |
+| png      | 5            | Imagem               |
+| mp3      | 5            | Imagem               |
+| ogg      | 5            | Áudio                |
+| wav      | 5            | Áudio                |
+| dpc      | 100          | Escrituração Digital |
+| rec      | 100          | Escrituração Digital |
+| sped     | 100          | Escrituração Digital |
+| kml      | 5            | Geolocalização       |
 ## Arquivos de Texto
 Os seguintes formatos de texto são suportados pelo sistema, sendo o **formato principal e mais utilizado, o PDF**:
 

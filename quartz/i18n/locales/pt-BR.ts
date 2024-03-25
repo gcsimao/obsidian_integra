@@ -64,7 +64,7 @@ export default {
     },
     error: {
       title: "Não encontrado",
-      notFound: "Esta página é privada ou não existe.",
+      notFound: "Esta página ainda não foi criada.",
     },
     folderContent: {
       folder: "Pasta",
