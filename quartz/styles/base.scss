@@ -218,7 +218,7 @@ a {
   border-top: 1px solid var(--lightgray);
 }
 
-.sr-only::after {
+#footnotes.sr-only::after {
   content: " Notas";
 }
 
