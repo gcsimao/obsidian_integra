@@ -1,7 +1,7 @@
 ---
 title: Tabela de movimentos integrados ao MGP
 tags:
-  - tags/IntegraçãoMGP
+  - IntegraçãoMGP
 ---
 # Tabela de movimentos integrados ao MGP
 

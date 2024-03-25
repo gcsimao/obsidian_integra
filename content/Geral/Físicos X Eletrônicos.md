@@ -1,7 +1,7 @@
 ---
 title: Físicos X Eletrônicos
 tags:
-  - tags/Conceito
+  - Conceito
 ---
 # Procedimentos Físicos
 

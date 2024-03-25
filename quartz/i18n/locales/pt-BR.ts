@@ -47,7 +47,7 @@ export default {
       linkToOriginal: "Link ao original",
     },
     search: {
-      title: "Pesquisar",
+      title: "Pesquisar (CTRL + K)",
       searchBarPlaceholder: "Começe a digitar para pesquisar...",
     },
     tableOfContents: {
