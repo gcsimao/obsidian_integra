@@ -88,4 +88,10 @@ const config: QuartzConfig = {
   },
 }
 
+
+let element = document.getElementById('footnotes');
+if (element && element.classList.contains('sr-only')) {
+    element.textContent = 'Nova Label';
+}
+
 export default config
