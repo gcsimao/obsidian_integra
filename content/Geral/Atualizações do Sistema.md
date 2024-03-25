@@ -3,7 +3,6 @@ title: Atualizações do Sistema
 draft: false
 tags:
 ---
-
 # Evolução
 
 O Integra Extrajudicial está em constante evolução a fim de atender às necessidades dos usuários, em congruência com os objetivos estratégicos do MPRJ.

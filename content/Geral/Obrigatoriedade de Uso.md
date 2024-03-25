@@ -3,9 +3,6 @@ title: Obrigatoriedade de Uso
 draft: false
 tags:
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)# Obrigatoriedade de Uso
-
 **Por ora, não há ainda nenhuma normativa obrigando o uso do sistema** nas Promotorias de Justiça. 
 
 Entretanto, nota-se um grande incremento de produtividade nos órgãos que vêm adotando seu uso.
