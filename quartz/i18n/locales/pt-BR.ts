@@ -67,9 +67,9 @@ export default {
       notFound: "Esta página é privada ou não existe.",
     },
     folderContent: {
-      folder: "Arquivo",
+      folder: "Pasta",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item mneste arquivo." : `${count} items neste arquivo.`,
+        count === 1 ? "1 item nesta pasta." : `${count} items nesta pasta.`,
     },
     tagContent: {
       tag: "Tag",
