@@ -218,10 +218,6 @@ a {
   border-top: 1px solid var(--lightgray);
 }
 
-#footnote-label.sr-only::before {
-  content: " Notas";
-}
-
 input[type="checkbox"] {
   transform: translateY(2px);
   color: var(--secondary);
