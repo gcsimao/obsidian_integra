@@ -3,7 +3,7 @@ title: Tabela de movimentos integrados ao MGP
 tags:
   - IntegraçãoMGP
 ---
-# Tabela de movimentos integrados ao MGP
+c# Tabela de movimentos integrados ao MGP
 
 Os seguintes movimentos e ações já estão [[Integração com o MGP|integrados com o MGP]]:
 
