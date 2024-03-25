@@ -1,5 +1,5 @@
 ---
-title: "Integração com o MGP"
+title: Integração com o MGP
 tags:
   - IntegraçãoMGP
 dg-publish: true

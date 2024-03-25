@@ -1,5 +1,5 @@
 ---
-title: '"O Sistema"'
+title: O Sistema
 ---
 # Sobre o Integra Extrajudicial
 

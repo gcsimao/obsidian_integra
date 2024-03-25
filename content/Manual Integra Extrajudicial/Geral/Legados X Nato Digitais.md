@@ -1,5 +1,5 @@
 ---
-title: '"Legados X Nato Digitais"'
+title: Legados X Nato Digitais
 tags:
   - Conceito
 ---

@@ -1,5 +1,5 @@
 ---
-title: '"Físicos X Eletrônicos"'
+title: Físicos X Eletrônicos
 tags:
   - Conceito
 ---

@@ -1,5 +1,5 @@
 ---
-title: '"Atualizações do Sistema"'
+title: Atualizações do Sistema
 draft: false
 tags:
 ---

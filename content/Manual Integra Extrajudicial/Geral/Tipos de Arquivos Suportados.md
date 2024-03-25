@@ -1,5 +1,5 @@
 ---
-title: "Tipos de Arquivos Suportados"
+title: Tipos de Arquivos Suportados
 ---
 # Lista de Extensões Suportadas
 

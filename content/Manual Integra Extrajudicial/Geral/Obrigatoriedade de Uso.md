@@ -1,5 +1,5 @@
 ---
-title: '"Obrigatoriedade de Uso"'
+title: Obrigatoriedade de Uso
 draft: false
 tags:
 ---

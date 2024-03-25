@@ -1,5 +1,5 @@
 ---
-title: '"Promotorias Elegíveis"'
+title: Promotorias Elegíveis
 ---
 # Promotorias Elegíveis
 
