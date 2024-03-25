@@ -1,8 +1,10 @@
 ---
-chapter: "[[Geral]]"
-dg-publish: true
+title: '"Obrigatoriedade de Uso"'
+draft: false
+tags:
 ---
-# Obrigatoriedade de Uso
+ 
+The rest of your content lives here. You can use **Markdown** here :)# Obrigatoriedade de Uso
 
 **Por ora, não há ainda nenhuma normativa obrigando o uso do sistema** nas Promotorias de Justiça. 
 

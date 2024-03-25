@@ -1,7 +1,9 @@
 ---
-chapter: "[[Geral]]"
-dg-publish: true
+title: '"Atualizações do Sistema"'
+draft: false
+tags:
 ---
+
 # Atualizações do Sistema
 
 O Integra Extrajudicial está em constante evolução a fim de atender às necessidades dos usuários, em congruência com os objetivos estratégicos do MPRJ.

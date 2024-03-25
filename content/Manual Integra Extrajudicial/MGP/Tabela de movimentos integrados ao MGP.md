@@ -1,8 +1,7 @@
 ---
-chapter: "[[MGP]]"
+title: "Tabela de movimentos integrados ao MGP"
 tags:
   - IntegraçãoMGP
-dg-publish: true
 ---
 # Tabela de movimentos integrados ao MGP
 

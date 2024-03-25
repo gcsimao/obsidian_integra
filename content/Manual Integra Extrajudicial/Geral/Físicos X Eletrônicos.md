@@ -1,8 +1,7 @@
 ---
-chapter: "[[Geral]]"
+title: '"Físicos X Eletrônicos"'
 tags:
   - Conceito
-dg-publish: true
 ---
 # Procedimentos Físicos
 

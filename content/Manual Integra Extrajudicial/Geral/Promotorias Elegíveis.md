@@ -1,6 +1,5 @@
 ---
-chapter: "[[Geral]]"
-dg-publish: true
+title: '"Promotorias Elegíveis"'
 ---
 # Promotorias Elegíveis
 

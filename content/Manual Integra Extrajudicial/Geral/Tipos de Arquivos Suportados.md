@@ -1,6 +1,5 @@
 ---
-chapter: "[[Geral]]"
-dg-publish: true
+title: "Tipos de Arquivos Suportados"
 ---
 # Lista de Extensões Suportadas
 

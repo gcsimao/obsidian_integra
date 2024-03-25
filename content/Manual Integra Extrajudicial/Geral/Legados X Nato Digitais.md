@@ -1,8 +1,7 @@
 ---
-chapter: "[[Geral]]"
+title: '"Legados X Nato Digitais"'
 tags:
   - Conceito
-dg-publish: true
 ---
 # Procedimentos Legados
 

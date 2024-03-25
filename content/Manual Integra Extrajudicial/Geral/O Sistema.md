@@ -1,6 +1,5 @@
 ---
-chapter: "[[Geral]]"
-dg-publish: true
+title: '"O Sistema"'
 ---
 # Sobre o Integra Extrajudicial
 
