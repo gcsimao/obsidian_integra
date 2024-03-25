@@ -33,7 +33,7 @@ export default {
       title: "Conteúdo",
     },
     footer: {
-      createdWith: "Criado com",
+      createdWith: "Criado por",
     },
     graph: {
       title: "Visão de gráfico",
@@ -48,7 +48,7 @@ export default {
     },
     search: {
       title: "Pesquisar",
-      searchBarPlaceholder: "Começe a digita para pesquisar",
+      searchBarPlaceholder: "Começe a digitar para pesquisar...",
     },
     tableOfContents: {
       title: "Sumário",
