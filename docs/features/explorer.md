@@ -1,5 +1,5 @@
 ---
-title: "Conteúdo"
+title: "Table of contents"
 tags:
   - component
 ---
