@@ -1,5 +1,5 @@
 ---
-title: "Table of contents"
+title: "Explorer"
 tags:
   - component
 ---

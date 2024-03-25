@@ -47,8 +47,8 @@ export default {
       linkToOriginal: "Enlace al original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Buscar algo",
+      title: "Buscar",
+      searchBarPlaceholder: "Busca algo",
     },
     tableOfContents: {
       title: "Tabla de Contenidos",
