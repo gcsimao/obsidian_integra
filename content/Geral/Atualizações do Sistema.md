@@ -22,3 +22,4 @@ Atualmente, dúvidas em relação ao uso do sistema, feedbacks e sugestões deve
 
 > [!info] Muitas funcionalidade sugeridas já foram implementadas e outras já estão no escopo do projeto aguardando o momento oportuno de implementação. Nem sempre será possível implementar as sugestões, seja por razões técnicas ou priorizações, mas são sempre muito bem vindas para gerar insights valiosos para o time de desenvolvimento.
 
+![[Recomendação BP.gif]]
