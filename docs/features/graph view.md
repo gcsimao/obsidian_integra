@@ -1,5 +1,5 @@
 ---
-title: "Graph View"
+title: "Visão gráfica"
 tags:
   - component
 ---
