@@ -215,6 +215,7 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
+        <div style="background-color: #702826; margin-bottom: 20px; transform: translateY(-20px);display: block; width: 100%;"><img src='static\logo__mprj.png'/></div>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
