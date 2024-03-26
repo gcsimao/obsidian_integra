@@ -28,16 +28,16 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#e9e9e9",
-          gray: "#b79266",
-          darkgray: "#333333",
-          dark: "#b79266",
-          secondary: "#702826",
-          tertiary: "#8c6a42",
-          highlight: "rgba(140, 106, 55, 0.10)",
+          light: "#e9e9e9", //page background
+          lightgray: "#abaaa8", //borders
+          gray: "#8c6a42", //graph links, heavier borders
+          darkgray: "#333333", //body text
+          dark: "#702826", //header text and icons
+          secondary: "#b79266", //link colour, current graph node
+          tertiary: "#cb6764", //hover states and visited graph nodes
+          highlight: "rgba(241, 242, 222, 0.50)", //internal link background, highlighted text, highlighted lines of code
         },
-        darkMode: {
+      darkMode: {
           light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           dark: "#ebebec",
           secondary: "#7b97aa",
           tertiary: "#84a59d",
-          highlight: "rgba(140, 106, 55, 0.15)",
+          highlight: "rgba(140, 106, 55, 0.3)",
         },
       },
     },
