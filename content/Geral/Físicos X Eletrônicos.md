@@ -14,7 +14,7 @@ Quando um [[Importar Procedimento Legado|procedimento é importado]] para o sist
 
 # Procedimentos Eletrônicos
 
-São todos os procedimentos que tramitam pelo sistema, tanto [[Legados X Nato Digitais|legados quanto nato digitais]]. 
+São todos os procedimentos que tramitam pelo sistema, tanto [[Legados X Nato Digitais|legados quanto nato digitais]].
 
 Quando um procedimento passa a ter esse tipo de suporte, [[Bloqueio no MGP|vários bloqueios são realizados no MGP]].
 

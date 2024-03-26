@@ -22,30 +22,30 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Roboto",
-        body: "Roboto",
+        header: "Roboto Serif",
+        body: "Roboto Serif",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#f6f6f6", //page background
+          light: "#e7e7e7", //page background
           lightgray: "#abaaa8", //borders
           gray: "#8c6a42", //graph links, heavier borders
-          darkgray: "#333333", //body text
-          dark: "#702826", //header text and icons
-          secondary: "#b79266", //link colour, current graph node
+          darkgray: "#000000", //body text
+          dark: "#7e3a3a", //header text and icons
+          secondary: "#b27b3d", //link colour, current graph node
           tertiary: "#cb6764", //hover states and visited graph nodes
-          highlight: "rgba(241, 242, 222, 0.9)", //internal link background, highlighted text, highlighted lines of code
+          highlight: "rgba(50, 50, 50, 0.05)",// highlight: "rgba(241, 242, 222, 0.6)", //internal link background, highlighted text, highlighted lines of code
         },
       darkMode: {
-          light: "#111111",
-          lightgray: "#393639",
+          light: "#333333",
+          lightgray: "#898989",
           gray: "#646464",
-          darkgray: "#e9e9e9",
-          dark: "#cb6764",
-          secondary: "#b79266",
-          tertiary: "#84a59d",
-          highlight: "rgba(140, 106, 55, 0.3)",
+          darkgray: "#d5d5d5",
+          dark: "#febe78",
+          secondary: "#cb6764",
+          tertiary: "#cb975f",
+          highlight: "rgba(200, 200, 200, 0.1)",
         },
       },
     },

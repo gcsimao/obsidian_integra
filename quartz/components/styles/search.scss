@@ -6,13 +6,14 @@
   flex-grow: 0.3;
 
   & > #search-icon {
-    background-color: #cdcdcd60;
+    background-color: #a6a6a630;
     border-radius: 8px;
     height: 2rem;
     display: flex;
     align-items: center;
     cursor: pointer;
     white-space: nowrap;
+
 
     & > div {
       flex-grow: 1;
@@ -33,7 +34,9 @@
         stroke: var(--secondary);
         stroke-width: 2px;
         transition: stroke 0.5s ease;
+
       }
+
     }
   }
 
