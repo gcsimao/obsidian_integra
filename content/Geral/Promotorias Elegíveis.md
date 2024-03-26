@@ -1,7 +1,7 @@
 ---
 title: Promotorias Elegíveis
 ---
-# Promotorias Elegíveis
+# Listagem das Promotorias
 
 | CRAAI                 | ÓRGÃO                                                                                                      |
 |-----------------------|------------------------------------------------------------------------------------------------------------|

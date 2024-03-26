@@ -205,6 +205,8 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
+
+    
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;
@@ -215,8 +217,19 @@ a {
 
 .footnotes {
   margin-top: 1rem;
-  margin-left: 1rem;
+  margin-left: 0rem;
   //border-top: 1px solid var(--lightgray);
+}
+
+h2#footnote-label{
+  visibility: hidden;
+}
+
+
+h2#footnote-label::after{
+  content: "\00a0 \00a0 \00a0 \00a0 Notas";
+  visibility: visible;
+  display: flex;
 }
 
 input[type="checkbox"] {
@@ -463,7 +476,10 @@ img {
 p > img + em {
   display: block;
   transform: translateY(-1rem);
+  margin-left: auto;
+  margin-right: auto;
 }
+
 
 hr {
   width: 100%;

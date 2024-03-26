@@ -28,14 +28,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#e9e9e9", //page background
+          light: "#f6f6f6", //page background
           lightgray: "#abaaa8", //borders
           gray: "#8c6a42", //graph links, heavier borders
           darkgray: "#333333", //body text
           dark: "#702826", //header text and icons
           secondary: "#b79266", //link colour, current graph node
           tertiary: "#cb6764", //hover states and visited graph nodes
-          highlight: "rgba(241, 242, 222, 0.50)", //internal link background, highlighted text, highlighted lines of code
+          highlight: "rgba(241, 242, 222, 0.9)", //internal link background, highlighted text, highlighted lines of code
         },
       darkMode: {
           light: "#161618",

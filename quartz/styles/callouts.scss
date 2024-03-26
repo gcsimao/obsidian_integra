@@ -45,9 +45,9 @@
 
   &[data-callout="info"],
   &[data-callout="todo"] {
-    --color: #00b8d4;
-    --border: #00b8d444;
-    --bg: #00b8d410;
+    --color: #5689a6;
+    --border: #5689a6;
+    --bg: #dbe6ed;
     --callout-icon: var(--callout-icon-info);
   }
 
@@ -56,8 +56,8 @@
   }
 
   &[data-callout="tip"] {
-    --color: #00bfa5;
-    --border: #00bfa544;
+    --color: #6da656;
+    --border: #6da656;
     --bg: #00bfa510;
     --callout-icon: var(--callout-icon-tip);
   }
@@ -77,9 +77,9 @@
   }
 
   &[data-callout="warning"] {
-    --color: #db8942;
-    --border: #db894244;
-    --bg: #db894210;
+    --color: #ed7601;
+    --border: #ed7601;
+    --bg: #ffddbb;
     --callout-icon: var(--callout-icon-warning);
   }
 

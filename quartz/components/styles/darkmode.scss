@@ -32,9 +32,12 @@
 :root[saved-theme="dark"] .toggle ~ label {
   & > #dayIcon {
     opacity: 0;
+    color: var(--lightgrey);
+
   }
   & > #nightIcon {
     opacity: 1;
+    color: var(--lightgrey);
   }
 }
 

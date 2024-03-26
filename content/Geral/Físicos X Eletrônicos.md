@@ -9,7 +9,8 @@ Procedimentos em suporte físico são todos **aqueles que não tramitam pelo sis
 
 Quando um [[Importar Procedimento Legado|procedimento é importado]] para o sistema, passa então a ser considerado eletrônico.
 
-> [!info] Sempre que esta documentação mencionar *"procedimento físico"*, lembre-se deste conceito!
+> [!info]+ Informação
+> Sempre que esta documentação mencionar *"procedimento físico"*, **lembre-se deste conceito**!
 
 # Procedimentos Eletrônicos
 
