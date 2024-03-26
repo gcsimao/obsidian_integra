@@ -54,6 +54,8 @@ ul,
   }
 }
 
+
+
 strong {
   font-weight: $semiBoldWeight;
 }
@@ -172,12 +174,14 @@ a {
     }
 
     & .sidebar.left {
+     
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
       }
     }
+   
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
@@ -190,6 +194,7 @@ a {
       }
     }
   }
+
 
   & .page-header {
     width: $pageWidth;

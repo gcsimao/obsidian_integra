@@ -3,11 +3,12 @@ title: Tabela de movimentos integrados ao MGP
 tags:
   - IntegraçãoMGP
 ---
-c# Tabela de movimentos integrados ao MGP
+# Tabela de movimentos integrados ao MGP
 
 Os seguintes movimentos e ações já estão [[Integração com o MGP|integrados com o MGP]]:
 
-> [!tip]  Antes de optar por realizar um [[Despacho não integrado|despacho não integrado]], confira na tabela abaixo se o que está procurando já não pode ser feito via integração!
+> [!tip]+  Dica
+> Antes de optar por realizar um [[Despacho não integrado|despacho não integrado]], confira na tabela abaixo se o que está procurando já não pode ser feito via integração!
 
 | Código MGP | Movimento                                                                                                                                                                                         | Caminho                                                   |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|

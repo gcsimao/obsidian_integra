@@ -47,7 +47,7 @@
   &[data-callout="todo"] {
     --color: #5689a6;
     --border: #5689a6;
-    --bg: #dbe6ed;
+    --bg: #dbe6ed10;
     --callout-icon: var(--callout-icon-info);
   }
 
@@ -79,7 +79,7 @@
   &[data-callout="warning"] {
     --color: #ed7601;
     --border: #ed7601;
-    --bg: #ffddbb;
+    --bg: #f5f0eb10;
     --callout-icon: var(--callout-icon-warning);
   }
 

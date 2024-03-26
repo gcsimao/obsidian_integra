@@ -6,7 +6,7 @@ title: Tipos de Procedimentos
 Atualmente o sistema suporta 4 (quatro) tipos de procedimentos, tanto na [[Criar Procedimento|criação de procedimentos nato digitais]] como na [[Importar Procedimento Legado|importação de procedimentos legados]]:
 1.	Notícias de Fato (NF)
 2.	Procedimentos Preparatórios (PP)
-- [ ] 3.	Inquéritos Civis (IC)
+3.	Inquéritos Civis (IC)
 4.	Procedimentos Administrativos (PA)
 
 >[!attention]+ Atenção
