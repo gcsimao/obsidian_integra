@@ -1,29 +1,29 @@
 ---
 title: Atualizações do Sistema
 draft: false
-tags:
+tags: []
 ---
-# Evolução
+## Evolução
 
 O Integra Extrajudicial está em constante evolução a fim de atender às necessidades dos usuários, em congruência com os objetivos estratégicos do MPRJ.
 
 As mudanças e atualizações são muito dinâmicos, então é muito importante acompanhar os informativos divulgados pelos [[Microsoft Teams|chats do Microsoft Teams]].
-# Versão do Sistema
+## Versão do Sistema
 
 A versão do sistema pode ser conferida ao repousar o mouse sobre o ícone mostrado na imagem abaixo.
 ![[Versão do sistema.png]]
-# Dúvidas
+## Dúvidas
 
 Atualmente, dúvidas em relação ao uso do sistema, feedbacks e sugestões devem ser encaminhadas pelos [[Microsoft Teams|chats próprios do Microsoft Teams]].
 
 > [!tip]+ Dica
 >  Sempre que surgir uma dúvida, consulte esta documentação antes de perguntar no chat. Caso não encontre sua resposta nesta documentação, pesquise nos chats para saber se sua dúvida já não foi respondida anteriormente.
-# Feedbacks
+## Feedbacks
 
 Seu **Feedback é sempre muito bem vindo**. Incentivamos fortemente esta prática, não só para fazer críticas construtivas, mas também elogiar o que está bom. 
 
 Isso mantém nossa equipe focada em fazer o melhor sistema possível para os usuários!
-# Sugestões
+## Sugestões
 
 Sugestões de novas funcionalidades ou melhorias também devem ser envidas pelos [[Microsoft Teams|chats do Microsoft Teams]].
 

@@ -1,0 +1,1 @@
+Nas páginas abaixo, veremos como funcionam alguns aspectos das integrações com o MGP, não sendo aqui listadas as funcionalidades integradas do sistema.

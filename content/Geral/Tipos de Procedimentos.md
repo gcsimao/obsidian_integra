@@ -1,7 +1,8 @@
 ---
 title: Tipos de Procedimentos
+tags: []
 ---
-# Tipos de Procedimentos
+## Tipos aceitos
 
 Atualmente o sistema suporta 4 (quatro) tipos de procedimentos, tanto na [[Criar Procedimento|criação de procedimentos nato digitais]] como na [[Importar Procedimento Legado|importação de procedimentos legados]]:
 1.	Notícias de Fato (NF)

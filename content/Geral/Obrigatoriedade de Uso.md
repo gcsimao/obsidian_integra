@@ -1,7 +1,7 @@
 ---
 title: Obrigatoriedade de Uso
 draft: false
-tags:
+tags: []
 ---
 **Por ora, não há ainda nenhuma normativa obrigando o uso do sistema** nas Promotorias de Justiça. 
 

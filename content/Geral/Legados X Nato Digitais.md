@@ -3,10 +3,10 @@ title: Legados X Nato Digitais
 tags:
   - Conceito
 ---
-# Procedimentos Legados
+## Procedimentos Legados
 
 São os procedimentos que tramitavam em [[Físicos X Eletrônicos#Procedimentos Físicos|suporte físico]] em que foram [[Importar Procedimento Legado|importados]] para o sistema, passando a serem considerados [[Físicos X Eletrônicos|eletrônicos]].
-# Nato Digitais
+## Nato Digitais
 
 São todos aqueles procedimentos que foram [[Criar Procedimento|criados diretamente no sistema]].
 

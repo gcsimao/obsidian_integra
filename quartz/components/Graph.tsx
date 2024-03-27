@@ -29,11 +29,11 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 2,
+    depth: 1,
     scale: 1.4,
     repelForce: 0.5,
     centerForce: 0.3,
-    linkDistance: 30,
+    linkDistance: 40,
     fontSize: 0.5,
     opacityScale: 1,
     showTags: true,

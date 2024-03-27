@@ -1,0 +1,1 @@
+Aqui estão listados todas as páginas referentes a conceitos que devem ser entendidos para o melhor entendimento deste manual.

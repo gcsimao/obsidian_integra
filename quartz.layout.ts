@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -26,10 +27,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    /*Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+      // exclude files with the tag "explorerexclude"
+      return node.file?.frontmatter?.tags?.includes("review") !== true
+    },
+  }))*/
+    
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }

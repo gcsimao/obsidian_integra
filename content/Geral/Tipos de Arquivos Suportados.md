@@ -1,7 +1,8 @@
 ---
 title: Tipos de Arquivos Suportados
+tags: []
 ---
-# Lista de Extensões Suportadas
+## Lista de Extensões Suportadas
 
 | Extensão | Tamanho (MB) | Tipo de Arquivo                                           |
 | -------- | ------------ | --------------------------------------------------------- |
@@ -20,7 +21,7 @@ title: Tipos de Arquivos Suportados
 | rec      | 100          | Escrituração Digital                                      |
 | sped     | 100          | Escrituração Digital                                      |
 | kml      | 5            | Geolocalização                                            |
-## Arquivos de Texto
+### Arquivos de Texto
 Os seguintes formatos de texto são suportados pelo sistema, sendo o **formato principal e mais utilizado, o PDF**:
 
 | Extensão | Tamanho (MB) |
@@ -29,7 +30,7 @@ Os seguintes formatos de texto são suportados pelo sistema, sendo o **formato p
 | txt      | 100          |
 >[!tip]+ Dica
 >Na [[Importar Procedimentos Legados|importação de procedimentos legados]], dê preferência a PDFs em formato OCR para facilitar a busca no conteúdo dos documentos.
-## Arquivos de Imagem
+### Arquivos de Imagem
 Os seguintes formatos de imagem são suportados pelo sistema:
 
 | Extensão | Tamanho (MB) |
@@ -40,7 +41,7 @@ Os seguintes formatos de imagem são suportados pelo sistema:
 | jpeg     | 5            |
 | jpg      | 5            |
 | png      | 5            |
-## Arquivos de Áudio
+### Arquivos de Áudio
 Os seguintes formatos de áudio são suportados pelo sistema:
 
 | Extensão | Tamanho (MB) |
@@ -54,7 +55,7 @@ Os seguintes formatos de áudio são suportados pelo sistema:
 > [!tip]+ Dica 
 > Caso seja estritamente necessário que um procedimento contenha arquivos de vídeo, como [[Registrar Reunião|atas de reunião]], recomenda-se que, por ora, sejam [[Sharepoint, OneDrive e outros repositórios de arquivos|mantidos no Sharepoint]].
 
-## Arquivos de Escrituração Digital
+### Arquivos de Escrituração Digital
 Os seguintes formatos de arquivos de escrituração digital são suportados pelo sistema:
 
 | Extensão | Tamanho (MB) |
@@ -62,11 +63,12 @@ Os seguintes formatos de arquivos de escrituração digital são suportados pelo
 | dpc      | 100          |
 | rec      | 100          |
 | sped     | 100          |
-## Arquivos de Geolocalização
+### Arquivos de Geolocalização
 Os seguintes formatos de arquivos de geolocalização são suportados pelo sistema:
 
 | Extensão | Tamanho (MB) |
 | -------- | ------------ |
 | kml      | 5            |
+
 ___
 **Ver também:** [[Juntada de Documentos e Mídias]], [[Sharepoint, OneDrive e outros repositórios de arquivos]]
