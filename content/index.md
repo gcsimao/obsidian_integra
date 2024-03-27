@@ -1,5 +1,6 @@
 ---
 title: Bem vindo ao Manual do Usuário!
+draft: false
 ---
 Este é a mais nova e atualizada versão do Manual do Usuário do Integra Extrajudicial.
 
