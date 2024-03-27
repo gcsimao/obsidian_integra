@@ -48,7 +48,14 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
-  font-size: 0.95rem;
+  /* font-size: 0.95rem; */
+}
+
+a.in-view,
+ul, 
+li,
+p {
+    font-size: 0.90rem; 
 }
 
 .math {
