@@ -527,6 +527,11 @@ p > img + em {
   margin-right: auto;
 }
 
+.folderContent > article {
+  display: none;
+}
+
+
 
 hr {
   width: 100%;

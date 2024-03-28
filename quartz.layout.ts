@@ -51,6 +51,10 @@ export const defaultContentPageLayout: PageLayout = {
      
         return orderA - orderB
       },
+      filterFn: (node) => {
+        // exclude files with the tag "explorerexclude"
+        return (node.file?.frontmatter?.tags?.includes("") !== true && node.name !== "tags")
+      },
     })),
   ],
   right: [
@@ -69,10 +73,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-              sortFn: (a, b) => {
+                sortFn: (a, b) => {
                 const nameOrderMap: Record<string, number> = {
-                  "Secretaria": 200,
                   "Geral": 100,
+                  "Secretaria": 200,
                   "MGP": 300,
                 }
             
@@ -93,7 +97,13 @@ export const defaultListPageLayout: PageLayout = {
             
                 return orderA - orderB
               },
+              filterFn: (node) => {
+                // exclude files with the tag "explorerexclude"
+                return (node.file?.frontmatter?.tags?.includes("") !== true && node.name !== "tags")
+              },
             })),
         ],
-  right: [],
+  right: [
+    Component.Graph(),
+  ],
 }

@@ -46,7 +46,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         : htmlToJsx(fileData.filePath!, tree)
 
     return (
-      <div class={classes}>
+      <div class="folderContent">
         <article>
           <p>{content}</p>
         </article>
