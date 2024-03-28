@@ -51,7 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
      
         return orderA - orderB
       },
-    })),  
+    })),
   ],
   right: [
     Component.Graph(),

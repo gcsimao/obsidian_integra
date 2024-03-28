@@ -237,7 +237,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                 if (value.startsWith("!")) {
                   const ext: string = path.extname(fp).toLowerCase()
                   const url = slugifyFilePath(fp as FilePath)
-                  if ([".png", ".jpg", ".jpeg", ".gif", ".bmp", ".svg", ".webp"].includes(ext)) {
+                  // const button = slugifyFilePath("botaoplay.png")
+                  if ([".png", ".jpg", ".jpeg", ".bmp", ".svg", ".webp"].includes(ext)) {
                     const match = wikilinkImageEmbedRegex.exec(alias ?? "")
                     const alt = match?.groups?.alt ?? ""
                     const width = match?.groups?.width ?? "auto"
@@ -258,7 +259,16 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                       type: "html",
                       value: `<video src="${url}" controls></video>`,
                     }
-                  } else if (
+                  } 
+                  else if ([".gif"].includes(ext)){
+                    return {
+                      type: "html",
+                      value: `<div class="gif-player"><img class="gif" src="${url}"></div>`
+                    }
+                  }
+                  
+                  
+                  else if (
                     [".mp3", ".webm", ".wav", ".m4a", ".ogg", ".3gp", ".flac"].includes(ext)
                   ) {
                     return {
@@ -608,8 +618,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                     class: "external-embed",
                     allow: "fullscreen",
                     frameborder: 0,
-                    width: "600px",
-                    height: "350px",
+                    width: "750px",
+                    height: "430px",
+                    display: "flex",
                     src: playlistId
                       ? `https://www.youtube.com/embed/${videoId}?list=${playlistId}`
                       : `https://www.youtube.com/embed/${videoId}`,

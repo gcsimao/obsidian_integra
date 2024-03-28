@@ -496,12 +496,29 @@ img {
   transition: transform 0.7s; /* Animação suave */
 }
 
-img:hover {
-    cursor: pointer;
-    transform: scale(1.8);/* (150% zoom - ajuste conforme necessário) */
-    position: relative;
-    z-index: 9999; 
-}
+// img:hover {
+//     cursor: pointer;
+//     transform: scale(1.65);/* (150% zoom - ajuste conforme necessário) */
+//     position: relative;
+//     z-index: 9999; 
+// }
+
+.gif-player {
+  display: block;
+  position: relative;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+.gif:hover {
+  display: block;
+  cursor: pointer;
+  transform: scale(2);
+  max-width: 100%;
+  position: relative;
+  z-index: 9998;
+ }
 
 p > img + em {
   display: block;
@@ -521,9 +538,12 @@ hr {
 
 audio,
 video {
+  display: block;
   width: 100%;
-  border-radius: 5px;
+  border-radius: 25px;
+  margin: auto;
 }
+
 
 .spacer {
   flex: 1 1 auto;

@@ -2,9 +2,10 @@
 title: Geral
 draft: false
 tags: 
-chapter:
+chapter: 
+links: "[[Tipos de Procedimentos]]"
 ---
-[[Tipos de Procedimentos|]]
+
 
 
 

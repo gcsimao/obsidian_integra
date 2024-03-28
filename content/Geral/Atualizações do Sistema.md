@@ -34,3 +34,14 @@ Sugestões de novas funcionalidades ou melhorias também devem ser envidas pelos
 >Evite ao máximo encaminhar sugestões, feedbacks e dúvidas por outros meios, seja e-mail, SEI etc.
 
 ![[Recomendação BP.gif]]
+
+
+
+
+
+
+![](https://youtu.be/ePUBsu9oCYs)
+
+
+![[animated-webp-supported.webp]]
+

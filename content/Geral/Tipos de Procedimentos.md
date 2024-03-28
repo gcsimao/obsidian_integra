@@ -1,6 +1,7 @@
 ---
 title: Tipos de Procedimentos
-tags: []
+tags: 
+links: "[[Geral/index]]"
 ---
 ## Tipos aceitos
 
