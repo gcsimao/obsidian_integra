@@ -43,3 +43,4 @@ Sugestões de novas funcionalidades ou melhorias também devem ser envidas pelos
 ![](https://youtu.be/ePUBsu9oCYs)
 
 
+![[DOCS CONTRATAÇÃO SEJJA recuperado e comprimido.pdf]]
