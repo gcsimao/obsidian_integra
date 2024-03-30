@@ -13,7 +13,7 @@ export function byDateAndAlphabetical(
       return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
     } else if (f1.dates && !f2.dates) {
       // prioritize files with dates
-      return 1
+      return -1
     } else if (!f1.dates && f2.dates) {
       return 1
     }
