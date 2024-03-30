@@ -1,7 +1,6 @@
 ---
 title: Tipos de Procedimentos
-tags: 
-links: "[[Atualizações do Sistema]]"
+tags:
 ---
 ## Tipos aceitos
 

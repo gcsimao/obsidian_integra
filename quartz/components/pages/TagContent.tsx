@@ -69,7 +69,7 @@ const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
                 </h2>
                 {content && <p>{content}</p>}
                 <div class="page-listing">
-                  <p>
+                  {/* <p>
                     {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
                     {pages.length > numPages && (
                       <>
@@ -79,7 +79,7 @@ const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
                         </span>
                       </>
                     )}
-                  </p>
+                  </p> */}
                   <PageList limit={numPages} {...listProps} />
                 </div>
               </div>
@@ -99,7 +99,7 @@ const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
       <div class={classes}>
         <article>{content}</article>
         <div class="page-listing">
-          <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+          {/* <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p> */}
           <div>
             <PageList {...listProps} />
           </div>

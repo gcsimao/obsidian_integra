@@ -1,8 +1,7 @@
 ---
 title: Geral
 draft: false
-tags: []
-chapter:
+tags:
 ---
 1. [[Atualizações do Sistema]]
 2. [[Físicos X Eletrônicos]]

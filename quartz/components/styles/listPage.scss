@@ -11,7 +11,7 @@ li.section-li {
 
   & > .section {
     display: grid;
-    grid-template-columns: 6em 3fr 1fr;
+    grid-template-columns:  3fr 1fr 0fr; // original grid 6em 3fr 1fr;
 
     @media all and (max-width: $mobileBreakpoint) {
       & > .tags {
@@ -27,14 +27,17 @@ li.section-li {
       margin: 0;
       flex-basis: 6em;
       opacity: 0.6;
+      display: none; //to not show dates
     }
   }
 }
 
 // modifications in popover context
 .popover .section {
-  grid-template-columns: 6em 1fr !important;
+  grid-template-columns: 10fr 1fr !important;
   & > .tags {
     display: none;
   }
+
+
 }
