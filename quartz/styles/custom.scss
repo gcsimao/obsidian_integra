@@ -29,8 +29,8 @@ section {
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
-  color: var(--darkgray);
+  background: color-mix(in srgb, #3064ce 80%, rgb(255, 255, 255, 0));
+  color: rgb(255, 255, 255);
 }
 
 p,
@@ -493,7 +493,7 @@ img {
   max-width: 100%;
   border-radius: 5px;
   margin: 1rem auto 0.5rem;
-  transition: transform 0.7s; /* Animação suave */
+  transition: transform 0.5s; /* Animação suave */
 }
 
 // img:hover {
@@ -518,6 +518,13 @@ img {
   max-width: 100%;
   position: relative;
   z-index: 9998;
+ }
+
+ .external-embed {
+  display: block;
+  max-width: 100%;
+  border-radius: 5px;
+  margin: 2rem auto 0.5rem;
  }
 
 p > img + em {
