@@ -1,6 +1,6 @@
 ---
 title: O Sistema
-tags: []
+tags:
 ---
 ## Sobre o Integra Extrajudicial
 

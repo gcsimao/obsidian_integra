@@ -526,12 +526,15 @@ img {
   border-radius: 5px;
   margin: 2rem auto 0.5rem;
  }
+ 
  .pdf-viewer {
   display: block;
   max-width: 100%;
   border-radius: 5px;
   margin: 2rem auto 0.5rem;
  }
+
+
 
 
 p > img + em {
@@ -594,6 +597,7 @@ ol.overflow {
   }
 }
 
+
 .transclude {
   ul {
     padding-left: 1rem;
@@ -604,3 +608,4 @@ ol.overflow {
   overflow-x: auto;
   overflow-y: hidden;
 }
+
