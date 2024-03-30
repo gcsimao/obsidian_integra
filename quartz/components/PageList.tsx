@@ -8,15 +8,15 @@ export function byDateAndAlphabetical(
   cfg: GlobalConfiguration,
 ): (f1: QuartzPluginData, f2: QuartzPluginData) => number {
   return (f1, f2) => {
-    if (f1.dates && f2.dates) {
-      // sort descending
-      return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
-    } else if (f1.dates && !f2.dates) {
-      // prioritize files with dates
-      return -1
-    } else if (!f1.dates && f2.dates) {
-      return 1
-    }
+    // if (f1.dates && f2.dates) {
+    //   // sort descending
+    //   return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
+    // } else if (f1.dates && !f2.dates) {
+    //   // prioritize files with dates
+    //   return -1
+    // } else if (!f1.dates && f2.dates) {
+    //   return 1
+    // }
 
     // otherwise, sort lexographically by title
     const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
@@ -30,7 +30,7 @@ type Props = {
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit }: Props) => {
-  let list = allFiles.sort(byDateAndAlphabetical(cfg)).reverse()
+  let list = allFiles.sort(byDateAndAlphabetical(cfg))
   if (limit) {
     list = list.slice(0, limit)
   }
