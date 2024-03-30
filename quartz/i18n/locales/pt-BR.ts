@@ -27,7 +27,7 @@ export default {
     },
     themeToggle: {
       lightMode: "Trocar tema",
-      darkMode: "Trocar tema",
+      darkMode: "Trocar Tema",
     },
     explorer: {
       title: "Conteúdo",
