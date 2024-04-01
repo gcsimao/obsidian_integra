@@ -155,7 +155,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return "var(--tertiary)"
     } else {
-      return "var(--gray)"
+      return "var(--tertiary)"
     }
   }
 

@@ -53,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
       filterFn: (node) => {
         // exclude files with the tag "explorerexclude"
-        return (node.file?.frontmatter?.tags?.includes("") !== true && node.name !== "tags")
+        return (node.file?.frontmatter?.tags?.includes("") !== true && node.name !== "tags" && node.name !== "_images" && node.name !== "_templates")
       },
     })),
   ],
@@ -102,8 +102,9 @@ export const defaultListPageLayout: PageLayout = {
                 return orderA - orderB
               },
               filterFn: (node) => {
+                const excludedFolders = ["tags", "_images", "_templates"];
                 // exclude files with the tag "explorerexclude"
-                return (node.file?.frontmatter?.tags?.includes("") !== true && node.name !== "tags")
+                return (node.file?.frontmatter?.tags?.includes("") !== true && !excludedFolders.includes(node.name));
               },
             })),
         ],

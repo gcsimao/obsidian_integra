@@ -70,6 +70,8 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
             if (aliases) data.aliases = aliases
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]))
             if (cssclasses) data.cssclasses = cssclasses
+            const links = coerceToArray(coalesceAliases(data, ["links", "link"]))
+            if (cssclasses) data.links = links
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]

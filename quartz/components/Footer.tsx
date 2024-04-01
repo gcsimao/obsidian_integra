@@ -16,12 +16,12 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://intranet.mprj.mp.br/administrativo/informatica">STIC - GSI</a> © {year}
+          <a target="_blank" href="https://intranet.mprj.mp.br/administrativo/informatica">STIC - GSI</a> © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <a target="_blank" href={link}>{text}</a>
             </li>
           ))}
         </ul>

@@ -8,6 +8,8 @@ export interface ColorScheme {
   tertiary: string
   highlight: string
   strong: string
+  link: string
+  linkHighlight: string
 }
 
 interface Colors {
@@ -51,6 +53,8 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
   --strong: ${theme.colors.lightMode.strong};
+  --link: ${theme.colors.lightMode.link};
+  --linkHighlight: ${theme.colors.lightMode.linkHighlight};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
@@ -67,6 +71,8 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --strong: ${theme.colors.darkMode.strong};
+  --link: ${theme.colors.darkMode.link};
+  --linkHighlight: ${theme.colors.darkMode.linkHighlight};
 }
 `
 }

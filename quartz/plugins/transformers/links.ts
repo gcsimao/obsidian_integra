@@ -28,8 +28,8 @@ interface Options {
 const defaultOptions: Options = {
   markdownLinkResolution: "absolute",
   prettyLinks: true,
-  openLinksInNewTab: false,
-  lazyLoad: false,
+  openLinksInNewTab: true,
+  lazyLoad: true,
   externalLinkIcon: true,
 }
 
@@ -48,6 +48,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
               strategy: opts.markdownLinkResolution,
               allSlugs: ctx.allSlugs,
             }
+
 
             visit(tree, "element", (node, _index, _parent) => {
               // rewrite all links
@@ -104,6 +105,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     file.data.slug!,
                     dest,
                     transformOptions,
+                    node.properties.target = "",
                   )
 
                   // url.resolve is considered legacy

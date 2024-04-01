@@ -1,6 +1,8 @@
 ---
 title: O Sistema
-tags:
+tags: 
+aliases:
+  - [["Geral"]]
 ---
 ## Sobre o Integra Extrajudicial
 
@@ -8,7 +10,7 @@ O Integra Extrajudicial (Integra Extra ou simplesmente 'Integra Extra') é um o 
 
 Outra grande vantagem do Integra Extra é que todos os arquivos que compõem um procedimento ficam armazenados nas bases de dados institucionais, de forma segura e totalmente auditável. 
 
-Assim, <u>elimina-se quase que por completo[^1] a necessidade de uso de repositórios online de terceiros</u>, como o Microsoft Sharepoint® e OneDrive®, por exemplo.
+Assim, <u>elimina-se quase que por completo</u>[^1] <u>a necessidade de uso de repositórios online de terceiros</u>, como o Microsoft Sharepoint® e OneDrive®, por exemplo.
 ___
 **Ver também:**
  - [[Promotorias Elegíveis]]
