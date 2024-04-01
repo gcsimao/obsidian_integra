@@ -16,4 +16,10 @@ Nesses procedimentos há algumas característica próprias, tais como:
 * [[Prorrogar Procedimento|Termo final de conclusão do procedimento automático]]
 * [[Juntada de Documentos e Mídias|Classificação dos documentos juntados]]
 ___
-**Ver também:** [[Importar Procedimento Legado]], [[Criar Procedimento]], [[Configuração Inicial do Sistema]], [[Portarias de Instauração]], [[Prorrogar Procedimento]], [[Juntada de Documentos e Mídias]]
+**Ver também:**
+ - [[Importar Procedimento Legado]]
+ - [[Criar Procedimento]]
+ - [[Configuração Inicial do Sistema]]
+ - [[Portarias de Instauração]]
+ - [[Prorrogar Procedimento]]
+ - [[Juntada de Documentos e Mídias]]

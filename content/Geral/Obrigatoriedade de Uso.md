@@ -9,8 +9,9 @@ Entretanto, nota-se um grande incremento de produtividade nos órgãos que vêm 
 
 Além do mais, quanto antes os órgãos passarem a adotar o Integra Extra como sua ferramenta principal de trabalho, melhor será quando, inevitavelmente, o sistema se tornar obrigatório
 
-> [!info]+ Informação
+> [!info] Informação
 > Atualmente, cerca de 85% (oitenta e cinco por cento) das Promotorias de Justiça elegíveis ao uso do sistema já o utilizam.
 
 ___
-**Ver também:** [[Promotorias Elegíveis]]
+**Ver também:**
+- [[Promotorias Elegíveis]]

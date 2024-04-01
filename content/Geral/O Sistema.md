@@ -10,6 +10,9 @@ Outra grande vantagem do Integra Extra é que todos os arquivos que compõem um 
 
 Assim, <u>elimina-se quase que por completo[^1] a necessidade de uso de repositórios online de terceiros</u>, como o Microsoft Sharepoint® e OneDrive®, por exemplo.
 ___
-**Ver também:** [[Promotorias Elegíveis]], [[Tipos de Arquivos Suportados]], [[Sharepoint, OneDrive e outros repositórios de arquivos]]
+**Ver também:**
+ - [[Promotorias Elegíveis]]
+ - [[Tipos de Arquivos Suportados]]
+ - [[Sharepoint, OneDrive e outros repositórios de arquivos]]
 
 [^1]: Alguns arquivos ainda precisam ser mantidos em outros repositórios, face a algumas limitações técnicas do sistema.

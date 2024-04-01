@@ -28,7 +28,7 @@ Os seguintes formatos de texto são suportados pelo sistema, sendo o **formato p
 | -------- | ------------ |
 | pdf      | 30           |
 | txt      | 100          |
->[!tip]+ Dica
+>[!tip] Dica
 >Na [[Importar Procedimentos Legados|importação de procedimentos legados]], dê preferência a PDFs em formato OCR para facilitar a busca no conteúdo dos documentos.
 ### Arquivos de Imagem
 Os seguintes formatos de imagem são suportados pelo sistema:
@@ -52,7 +52,7 @@ Os seguintes formatos de áudio são suportados pelo sistema:
 >[!attention] Atenção
 > Apesar de o formato ".ogg" ser um formato de áudio **e vídeo**, o **sistema ainda não suporta arquivos de vídeo**. Portanto, tal extensão somente deve ser usada para o upload de áudios.
 
-> [!tip]+ Dica 
+> [!tip] Dica 
 > Caso seja estritamente necessário que um procedimento contenha arquivos de vídeo, como [[Registrar Reunião|atas de reunião]], recomenda-se que, por ora, sejam [[Sharepoint, OneDrive e outros repositórios de arquivos|mantidos no Sharepoint]].
 
 ### Arquivos de Escrituração Digital
@@ -71,4 +71,6 @@ Os seguintes formatos de arquivos de geolocalização são suportados pelo siste
 | kml      | 5            |
 
 ___
-**Ver também:** [[Juntada de Documentos e Mídias]], [[Sharepoint, OneDrive e outros repositórios de arquivos]]
+**Ver também:** 
+- [[Juntada de Documentos e Mídias]]
+- [[Sharepoint, OneDrive e outros repositórios de arquivos]]

@@ -9,7 +9,7 @@ Procedimentos em suporte físico são todos **aqueles que não tramitam pelo sis
 
 Quando um [[Importar Procedimento Legado|procedimento é importado]] para o sistema, passa então a ser considerado eletrônico.
 
-> [!info]+ Informação
+> [!info] Informação
 > Sempre que esta documentação mencionar *"procedimento físico"*, **lembre-se deste conceito**!
 
 ## Procedimentos Eletrônicos
@@ -20,4 +20,5 @@ Quando um procedimento passa a ter esse tipo de suporte, [[Bloqueio no MGP|vári
 
 Caso um procedimento seja [[Declínio de Atribuição|declinado para um órgão ainda não usuário do sistema]], ele **voltará a ser considerado um procedimento físico.**
 ___
-**Ver também:** [[Legados X Nato Digitais#Procedimentos Legados|Procedimentos Legados]]
+ **Ver também** 
+- [[Legados X Nato Digitais#Procedimentos Legados|Procedimentos Legados]]

@@ -66,6 +66,9 @@ p {
   }
 }
 
+li > a.in-view {
+  color: var(--tertiary);
+}
 
 
 strong {
@@ -85,9 +88,11 @@ a {
   &.internal {
     text-decoration: none;
     background-color: var(--highlight);
+    // background-color: none;
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
+    
 
     &:has(> img) {
       background-color: none;
@@ -95,8 +100,13 @@ a {
       padding: 0;
     }
     &.tag-link {
+      background-color: var(--highlight);
+      color: var(--strong);
+      opacity: 0.92;
+
       &::before {
         content: "#";
+        
       }
     }
   }
@@ -154,7 +164,7 @@ a {
     }
 
     p > strong {
-      color: var(--dark);
+      color: var(--strong);
     }
   }
 

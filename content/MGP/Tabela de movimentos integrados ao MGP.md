@@ -7,7 +7,7 @@ tags:
 
 Os seguintes movimentos e ações já estão [[Integração com o MGP|integrados com o MGP]]:
 
-> [!tip]+  Dica
+> [!tip] Dica
 > Antes de optar por realizar um [[Despacho não integrado|despacho não integrado]], confira na tabela abaixo se o que está procurando já não pode ser feito via integração!
 
 | Código MGP | Movimento                                                                                                                                                                                         | Caminho                                                   |

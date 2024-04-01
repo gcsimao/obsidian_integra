@@ -16,7 +16,7 @@ A versão do sistema pode ser conferida ao repousar o mouse sobre o ícone mostr
 
 Atualmente, dúvidas em relação ao uso do sistema, feedbacks e sugestões devem ser encaminhadas pelos [[Microsoft Teams|chats próprios do Microsoft Teams]].
 
-> [!tip]+ Dica
+> [!tip] Dica
 >  Sempre que surgir uma dúvida, consulte esta documentação antes de perguntar no chat. Caso não encontre sua resposta nesta documentação, pesquise nos chats para saber se sua dúvida já não foi respondida anteriormente.
 ## Feedbacks
 
@@ -27,20 +27,14 @@ Isso mantém nossa equipe focada em fazer o melhor sistema possível para os usu
 
 Sugestões de novas funcionalidades ou melhorias também devem ser envidas pelos [[Microsoft Teams|chats do Microsoft Teams]].
 
-> [!info]+ Infomação
+> [!info] Infomação
 >  Muitas funcionalidade sugeridas já foram implementadas e outras já estão no escopo do projeto aguardando o momento oportuno de implementação. Nem sempre será possível implementar as sugestões, seja por razões técnicas ou priorizações, mas são sempre muito bem vindas para gerar insights valiosos para o time de desenvolvimento.
 
->[!attention]+ Atenção
+>[!attention] Atenção
 >Evite ao máximo encaminhar sugestões, feedbacks e dúvidas por outros meios, seja e-mail, SEI etc.
 
 ![[Recomendação BP.gif]]
 
 
-
-
-
-
 ![](https://youtu.be/ePUBsu9oCYs)
 
-
-![[DOCS CONTRATAÇÃO SEJJA recuperado e comprimido.pdf#page=3]]
