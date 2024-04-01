@@ -1,6 +1,7 @@
 ---
 title: Tipos de Procedimentos
-tags:
+tags: []
+review: true
 ---
 ## Tipos aceitos
 

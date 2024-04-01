@@ -88,7 +88,7 @@ a {
   &.internal {
     text-decoration: none;
     background-color: var(--linkHighlight);
-    padding: 0 0.3rem;
+    padding: 0 0.1rem;
     border-radius: 10px;
     line-height: 1em;
     color: var(--link);
@@ -124,6 +124,7 @@ a {
 #user-content-fnref-1 {
   color: var(--dark);
   background-color: transparent;
+  padding: -2px;
 }
 
 a.data-footnote-backref {

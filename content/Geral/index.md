@@ -1,7 +1,8 @@
 ---
 title: Geral
 draft: false
-tags:
+tags: 
+review: true
 ---
 1. [[Atualizações do Sistema]]
 2. [[Físicos X Eletrônicos]]
@@ -11,9 +12,10 @@ tags:
 6. [[Promotorias Elegíveis]]
 7. [[Tipos de Arquivos Suportados]]
 8. [[Tipos de Procedimentos]]
+9. [[Microsoft Teams]]
 
 ```dataview
-list from "Geral"
+table from "Geral"
 where file.name != "index"
 ```
 

@@ -1,6 +1,7 @@
 ---
 title: Promotorias Elegíveis
 tags: []
+review: true
 ---
 ## Listagem das Promotorias
 
