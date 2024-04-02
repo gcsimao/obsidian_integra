@@ -15,10 +15,11 @@
 }
 
 .popover {
-  z-index: 999;
+  z-index: 9999;
   position: absolute;
   overflow: visible;
   padding: 1rem;
+
 
   & > .popover-inner {
     position: relative;

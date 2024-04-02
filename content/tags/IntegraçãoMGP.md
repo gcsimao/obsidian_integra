@@ -1,1 +1,0 @@
-Listagem das páginas referentes a alguns aspectos das integrações com o MGP.

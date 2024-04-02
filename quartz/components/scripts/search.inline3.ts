@@ -403,19 +403,18 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     currentSearchTerm = (e.target as HTMLInputElement).value
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
-  
+
     let searchResults: FlexSearch.SimpleDocumentSearchResultSetUnit[]
     if (searchType === "tags") {
-      // Tags search
       currentSearchTerm = currentSearchTerm.substring(1).trim()
       const separatorIndex = currentSearchTerm.indexOf(" ")
       if (separatorIndex != -1) {
-        // If there's a space, split the search term into tag and query
+        // search by title and content index and then filter by tag (implemented in flexsearch)
         const tag = currentSearchTerm.substring(0, separatorIndex)
         const query = currentSearchTerm.substring(separatorIndex + 1).trim()
         searchResults = await index.searchAsync({
           query: query,
-          // Return at least 10000 documents, so it is enough to filter them by tag
+          // return at least 10000 documents, so it is enough to filter them by tag (implemented in flexsearch)
           limit: Math.max(numSearchResults, 10000),
           index: ["title", "content"],
           tag: tag,
@@ -423,11 +422,11 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         for (let searchResult of searchResults) {
           searchResult.result = searchResult.result.slice(0, numSearchResults)
         }
-        // Set search type to basic and remove tag from term for proper highlighting and scroll
+        // set search type to basic and remove tag from term for proper highlightning and scroll
         searchType = "basic"
         currentSearchTerm = query
       } else {
-        // Default search by tags index
+        // default search by tags index
         searchResults = await index.searchAsync({
           query: currentSearchTerm,
           limit: numSearchResults,
@@ -435,21 +434,19 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         })
       }
     } else if (searchType === "basic") {
-      // Basic search
-      const searchTerms = currentSearchTerm.split(" ").filter(term => term.trim() !== "")
       searchResults = await index.searchAsync({
-        query: searchTerms.join(" AND "), // Use AND operator to ensure all words are matched
+        query: currentSearchTerm,
         limit: numSearchResults,
         index: ["title", "content"],
       })
     }
-  
+
     const getByField = (field: string): number[] => {
       const results = searchResults.filter((x) => x.field === field)
       return results.length === 0 ? [] : ([...results[0].result] as number[])
     }
-  
-    // Order titles ahead of content
+
+    // order titles ahead of content
     const allIds: Set<number> = new Set([
       ...getByField("title"),
       ...getByField("content"),
@@ -458,7 +455,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
     await displayResults(finalResults)
   }
-  
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))

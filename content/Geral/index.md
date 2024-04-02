@@ -5,15 +5,17 @@ tags:
 review: false
 ---
 1. [[Atualizações do Sistema]]
-2. [[Físicos X Eletrônicos]]
-3. [[Implantação e Migração]]
-4. [[Legados X Nato Digitais]]
-5. [[O Sistema]]
-6. [[Obrigatoriedade de Uso]]
-7. [[Promotorias Elegíveis]]
-8. [[Tipos de Arquivos Suportados]]
-9. [[Tipos de Procedimentos]]
-10. [[Microsoft Teams]]
+2. [[Configuração Inicial do Sistema]]
+3. [[Físicos X Eletrônicos]]
+4. [[Implantação e Migração]]
+5. [[Legados X Nato Digitais]]
+6. [[O Sistema]]
+7. [[Obrigatoriedade de Uso]]
+8. [[Promotorias Elegíveis]]
+9. [[Tipos de Arquivos Suportados]]
+10. [[Tipos de Procedimentos]]
+11. [[Microsoft Teams]]
+12. [[Perfis de Usuários]]
 
 ```dataview
 table from "Geral"

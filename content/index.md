@@ -74,7 +74,3 @@ Temos ainda, mais três tipos: **Exemplos, alertas de Atenção e Cuidado**.
 
 ## Versão em PDF
 Acesse a versão antiga em PDF [neste link](https://intranet.mprj.mp.br/documents/79248691/81063224/manual_integra_extrajudicial.pdf).
-
-
-
-
