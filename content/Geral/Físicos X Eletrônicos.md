@@ -7,7 +7,7 @@ tags:
 
 Procedimentos em suporte físico são todos **aqueles que não tramitam pelo sistema, mesmo que completamente digitalizados** e em trâmite pelo [[Sharepoint, OneDrive e outros repositórios de arquivos|Sharepoint]], por exemplo.
 
-Quando um [[Importar Procedimento Legado|procedimento é importado]] para o sistema, passa então a ser considerado eletrônico.
+Quando um [[Importar Procedimentos Legados|procedimento é importado]] para o sistema, passa então a ser considerado eletrônico.
 
 > [!info] Informação
 > Sempre que esta documentação mencionar *"procedimento físico"*, **lembre-se deste conceito**!

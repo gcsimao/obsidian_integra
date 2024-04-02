@@ -85,7 +85,7 @@ export function renderPage(
               blockNode = {
                 type: "element",
                 tagName: "ul",
-                properties: {},
+                properties: { },
                 children: [blockNode],
               }
             }

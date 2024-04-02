@@ -73,4 +73,3 @@ Os seguintes formatos de arquivos de geolocalização são suportados pelo siste
 ___
 **Ver também:** 
 - [[Juntada de Documentos e Mídias]]
-- [[Sharepoint, OneDrive e outros repositórios de arquivos]]

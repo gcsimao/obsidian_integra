@@ -14,7 +14,6 @@ Além disso, o manual está repleto de imagens, dicas, vídeos e links externos 
 > Como o sistema está em constante [[O Sistema#Versão e atualizações|atualização]], estando hoje na **Versão 2.60**, algumas imagens e funcionalidades deste manual podem estar ligeiramente diferentes.
 
 ## Navegação pelo Conteúdo
-
 Utilize o menu lateral esquerdo para **navegar pelo conteúdo**, clicando para expandir o conteúdo dentro de cada pasta.
 
 Se preferir, acesse abaixo:
@@ -23,23 +22,19 @@ Se preferir, acesse abaixo:
 3. [[MGP/index|MGP]]
 
 > [!tip] Dica
-> Sempre que um texto estiver com as cores acima, significa que é um **link interno** e você pode clicar para navegar a página ou apenas passar o mouse sobre o link pra pré visualizar seu teor.
+> Sempre que um texto estiver com as cores acima, significa que é um **link interno** e você pode clicar para navegar a página ou apenas passar o mouse sobre o link para pré visualizar seu teor.
 
 ## Barra de Pesquisas
 
-Acima do conteúdo, há **barra de pesquisas**, que será muito útil para encontrar tudo o que você precisa. 
-
-Experimente e se surpreenda!
+Acima do conteúdo, há a **barra de pesquisas**, que será muito útil para encontrar tudo o que você precisa, já que é uma pesquisa muito eficiente, varrendo todo o conteúdo do manual.
 
 > [!tip] Dica
 > A qualquer momento, utilize as teclas de atalhos "CTRL + K" para abrir a caixa de pesquisa.
 
-No canto direito da tela, há a **Visão de Gráfico**, onde podemos visualizar o relacionamento entre o tópico atual e outros. Há um ícone no canto superior direito que, ao clica, exibirá todos os relacionamentos deste manual.
-
 ## Alterar Tema
 
 Abaixo da barra de pesquisas é possível alterar entre os temas claro e escuro. Ajuste para o que for mais confortável para você!
-## Gráfico local e global
+## Gráfico Local e Global
 
 Do lado superior direito, há um gráfico que mostra a <u>relação da página atual com outras</u>. 
 
@@ -49,6 +44,7 @@ Use a rodinha do mouse para dar zoom no gráfico e clique e arraste para movimen
 ## Sumário
 
 O sumário fica localizado logo abaixo da Visão de Gráfico e pode ser muito útil para navegar entre os títulos na mesma página.
+
 > [!tip] Dica
 > Ao passa o mouse sobre cada título, na parte central da página, é possível copiar o link exato para aquele local. Assim fica fácil ajudar os colegas sobre onde encontrar determinada informação.
 ## Hastags
@@ -65,14 +61,16 @@ Ao final, do lado direito, há o link de todas as páginas que fazem referência
 
 Ao longo do manual, como já vimos acima, temos quadros de **dicas e informações adicionais.**
 
-Temos ainda, mais dois tipos: **Avisos e Exemplos**.
+Temos ainda, mais três tipos: **Exemplos, alertas de Atenção e Cuidado**.
+
+>[!example]+ Exemplo
+>Isto é um exemplo. Se ele for muito grande, use o ícone de seta para expandir e colapsar o quadro.
 
 >[!attention] Atenção
->Este é um quadro que deve ser lido sempre!
+>Este quadro contem informações importantes e deve ser lido sempre.
 
->[!example] Exemplo
->Isso é um exemplo!
-
+>[!danger] Cuidado
+>Geralmente esse quadro conterá informações **muito importantes** relacionadas a **ações irreversíveis**.
 
 ## Versão em PDF
 Acesse a versão antiga em PDF [neste link](https://intranet.mprj.mp.br/documents/79248691/81063224/manual_integra_extrajudicial.pdf).

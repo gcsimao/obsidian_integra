@@ -38,7 +38,7 @@ const config: QuartzConfig = {
           highlight: "#ffe0b280",// highlight: "rgba(241, 242, 222, 0.6)", //internal link background, highlighted text, highlighted lines of code
           strong: "#333333",
           link: "#5689a6",
-          linkHighlight: "#f3f3f370",
+          linkHighlight: "#f3f3f390",
         },
       darkMode: {
           light: "#112222",

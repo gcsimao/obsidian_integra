@@ -2,17 +2,18 @@
 title: Geral
 draft: false
 tags: 
-review: true
+review: false
 ---
 1. [[Atualizações do Sistema]]
 2. [[Físicos X Eletrônicos]]
-3. [[Legados X Nato Digitais]]
-4. [[O Sistema]]
-5. [[Obrigatoriedade de Uso]]
-6. [[Promotorias Elegíveis]]
-7. [[Tipos de Arquivos Suportados]]
-8. [[Tipos de Procedimentos]]
-9. [[Microsoft Teams]]
+3. [[Implantação e Migração]]
+4. [[Legados X Nato Digitais]]
+5. [[O Sistema]]
+6. [[Obrigatoriedade de Uso]]
+7. [[Promotorias Elegíveis]]
+8. [[Tipos de Arquivos Suportados]]
+9. [[Tipos de Procedimentos]]
+10. [[Microsoft Teams]]
 
 ```dataview
 table from "Geral"

@@ -4,7 +4,7 @@ tags:
 aliases:
   - [["Geral"]]
 ---
-O Integra Extrajudicial é o sistema informatizado de gestão eletrônica de notícias de fato e de procedimentos extrajudiciais da atividade finalística do  [Ministério Público do Estado do Rio de Janeiro](https://www.mprj.mp.br/) .
+O Integra Extrajudicial é o sistema informatizado de gestão eletrônica de notícias de fato e demais [[Tipos de Procedimentos|procedimentos extrajudiciais]] da atividade finalística do  [Ministério Público do Estado do Rio de Janeiro](https://www.mprj.mp.br/) .
 
 Atualmente, a utilização do sistema é regulada pela [Resolução GPGJ N.º 2.584/2024](https://www.mprj.mp.br/documents/20184/4541307/26.03.2024.pdf#page=3), que instituiu a [[Obrigatoriedade de Uso|obrigatoriedade de uso]] para diversas Promotorias de Justiça.
 
@@ -12,7 +12,7 @@ Atualmente, a utilização do sistema é regulada pela [Resolução GPGJ N.º 2.
 
 * Quase todos os arquivos que compõem um procedimento ficam armazenados nas bases de dados institucionais, de forma segura e totalmente auditável. Assim, elimina-se quase que por completo[^1] a necessidade de uso de repositórios online de terceiros, como o Microsoft Sharepoint® e OneDrive®, por exemplo;
 * [[Integração com o MGP]]: a maioria das ações realizadas pelo membro[^2] já estão integradas com o MGP, reduzindo significativamente a utilização deste sistema pelo usuário;
-* Rapidez e interface amigável: utilizamos as mais modernas tecnologias de design e desenvolvimento de software para entregar uma experiência fácil e intuitiva para o usuário
+* Rapidez e interface amigável: utilizamos as mais modernas tecnologias de design e desenvolvimento de software para entregar uma experiência fácil e intuitiva para o usuário.
 
 ## Versão e Atualizações
 
@@ -31,7 +31,6 @@ ___
 
 **Ver também:**
  - [[Resoluções Aplicáveis]]
- - [[Tipos de Arquivos Suportados]]
  - [[Sharepoint, OneDrive e outros repositórios de arquivos]]
 
 [^1]: Alguns arquivos ainda precisam ser mantidos em outros repositórios, face a algumas limitações técnicas do sistema.

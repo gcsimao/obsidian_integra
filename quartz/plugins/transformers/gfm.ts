@@ -36,6 +36,7 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | 
                 ariaHidden: true,
                 tabIndex: -1,
                 "data-no-popover": true,
+                title: "Copiar link",
               },
               content: {
                 type: "element",
@@ -51,6 +52,7 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | 
                   "stroke-linejoin": "round",
                 },
                 children: [
+       
                   {
                     type: "element",
                     tagName: "path",
