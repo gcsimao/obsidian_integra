@@ -27,7 +27,7 @@ Sugestões de novas funcionalidades ou melhorias também devem ser envidas tamb�
 
 ## Bugs
 
-Os chats também podem ser muito úteis para reportar erros no sistema que não podem ser resolvidos via [[Helpdesk]].
+Os chats também podem ser muito úteis para reportar erros no sistema que não podem ser resolvidos via [[Helpdesk|Helpdesk|]].
 
 >[!tip] Dica
 >Sempre que reportar um erro pelos chats, informe o número CNMP completo do procedimento e encaminhe o máximo de informações possíveis, como prints da tela, dia e hora e mais quaisquer outros detalhes que possam ajudar a equipe a solucionar o problema o mais rápido possível.

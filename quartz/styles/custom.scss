@@ -88,8 +88,8 @@ a {
   &.internal {
     text-decoration: none;
     background-color: var(--linkHighlight);
-    padding: 0 0.1rem;
-    border-radius: 10px;
+    padding: 0 0.3rem;
+    border-radius: 5px;
     line-height: 1em;
     color: var(--link);
 
@@ -190,12 +190,12 @@ a.data-footnote-backref {
       flex: 1;
       display: flex;
       flex-direction: column;
-      gap: 2rem;
+      gap: 0.9rem;
       top: 0;
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
+      padding: 0 2.5rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -609,7 +609,7 @@ video {
 
 ul.overflow,
 ol.overflow {
-  max-height: 400;
+  max-height: 450;
   overflow-y: auto;
 
   // clearfix
@@ -620,18 +620,18 @@ ol.overflow {
     margin-bottom: 30px;
   }
 
-  &:after {
-    pointer-events: none;
-    content: "";
-    width: 100%;
-    height: 50px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    opacity: 1;
-    transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
-  }
+//   &:after {
+//     pointer-events: none;
+//     content: "";
+//     width: 100%;
+//     height: 50px;
+//     position: absolute;
+//     left: 0;
+//     bottom: 0;
+//     opacity: 1;
+//     transition: opacity 0.3s ease;
+//     background: linear-gradient(transparent 0px, var(--light));
+//   }
 }
 
 
@@ -644,5 +644,32 @@ ol.overflow {
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
+}
+
+/* Define scrollbar styles */
+::-webkit-scrollbar {
+  width: 0.6em; /* Width of the scrollbar */ 
+  border-radius: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--linkHighlight); /* Color of the track */
+  border-radius: 5px;
+  
+}
+
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--lightgray); /* Color of the scrollbar handle */
+  border-radius: 5px;
+  
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gray); /* Color of the scrollbar handle on hover */
+  border-radius: 5px;
 }
 

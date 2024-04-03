@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 1. [[IntegraçãoMGP]]
-2. [[Tabela de Integração ao MGP]]
+2. [[Tabela de Integração com o MGP]]
 
 
 ```dataview

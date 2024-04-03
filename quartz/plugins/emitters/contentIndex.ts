@@ -18,6 +18,7 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+  // related: SimpleSlug[] //modified by me
 }
 
 interface Options {
@@ -131,6 +132,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               : undefined,
             date: date,
             description: file.data.description ?? "",
+            // related: file.data.frontmatter?.related ?? [],//modified by me
           })
         }
       }

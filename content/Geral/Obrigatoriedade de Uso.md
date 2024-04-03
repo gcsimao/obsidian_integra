@@ -7,7 +7,7 @@ Por força da [Resolução GPGJ N.º 2.584/2024](https://www.mprj.mp.br/document
 
 ## Prazos de Implantação e Migração
 
-Os órgãos de execução já elegíveis, caso ainda não tenha sido cadastrados para a utilização do sistema[^1], deverão realizar a [[Configuração Inicial do Sistema|implantação]][^2] do sistema até 31/05/2024 e [[Importar Procedimentos Legados|migrar seus procedimentos]] até 31/07/2024.
+Os órgãos de execução já elegíveis, caso ainda não tenha sido cadastrados para a utilização do sistema[^1], deverão realizar a [[Configuração do Número Inicial da Portaria|implantação]][^2] do sistema até 31/05/2024 e [[Importar Procedimentos Legados|migrar seus procedimentos]] até 31/07/2024.
 
 Promotorias que já haviam realizado a implantação do sistema, deverão realizar a migração até 31/05/2024.
 
@@ -20,8 +20,8 @@ Essa promotorias, cuja listagem pode ser [[Promotorias Elegíveis#Promotorias co
 
 ___
 **Ver também:**
-- [[Promotorias Elegíveis]]
-- [[Implantação e Migração]]
+- [[Promotorias Elegíveis|Promotorias Elegíveis]]
+- [[Implantação e Migração|Implantação e Migração]]
 
 [^1]: Antes da edição da norma acima referida, os órgãos solicitavam o acesso por meio de um formulário, eram cadastrados e, a partir da configuração inicial da portaria eram considerados habilitados (implantação realizada).
 [^2]: A implantação é considerada efetivada a partir da configuração do número inicial da portaria de instauração.

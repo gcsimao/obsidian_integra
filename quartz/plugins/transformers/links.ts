@@ -9,6 +9,9 @@ import {
   splitAnchor,
   transformLink,
   joinSegments,
+  isSimpleSlug,
+  slugifyFilePath,
+  FilePath,
 } from "../../util/path"
 import path from "path"
 import { visit } from "unist-util-visit"
@@ -48,7 +51,17 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
               strategy: opts.markdownLinkResolution,
               allSlugs: ctx.allSlugs,
             }
-
+          // Add frontmatter links to outgoing links (modified by me)
+          if (file.data.frontmatter) {
+            for (const [fmKey, fmValue] of Object.entries(file.data.frontmatter)) {
+              if (fmKey && typeof fmValue === "string") {
+                const dest = fmValue.match(/\[\[(.*)\]\]/)?.[1] as FilePath ?? null
+                if (dest) {
+                  outgoing.add(simplifySlug(slugifyFilePath(dest)))
+                }
+              }
+            }
+          }
 
             visit(tree, "element", (node, _index, _parent) => {
               // rewrite all links

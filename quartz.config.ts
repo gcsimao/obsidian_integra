@@ -29,7 +29,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#ffffff", //page background
-          lightgray: "#abaaa8", //borders
+          lightgray: "#abaaa880", //borders
           gray: "#33333380", //graph links, heavier borders
           darkgray: "#000000", //body text
           dark: "#7e3a3a", //header text and icons
@@ -42,7 +42,7 @@ const config: QuartzConfig = {
         },
       darkMode: {
           light: "#112222",
-          lightgray: "#898989",
+          lightgray: "#89898970",
           gray: "#646464",
           darkgray: "#d5d5d5",
           dark: "#febe78",

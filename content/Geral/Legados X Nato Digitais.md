@@ -20,5 +20,5 @@ Nesses procedimentos há algumas característica próprias, tais como:
 * [[Juntada de Documentos e Mídias|Classificação dos documentos juntados]]
 ___
 **Ver também:**
- - [[Configuração Inicial do Sistema]]
- - [[Juntada de Documentos e Mídias]]
+ - [[Configuração do Número Inicial da Portaria|Configuração do Número Inicial da Portaria]]
+ - [[Juntada de Documentos e Mídias|Juntada de Documentos e Mídias]]

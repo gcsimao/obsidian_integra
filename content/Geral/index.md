@@ -5,7 +5,7 @@ tags:
 review: false
 ---
 1. [[Atualizações do Sistema]]
-2. [[Configuração Inicial do Sistema]]
+2. [[Barra de Ações do Sistema]]
 3. [[Físicos X Eletrônicos]]
 4. [[Implantação e Migração]]
 5. [[Legados X Nato Digitais]]
