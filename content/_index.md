@@ -22,7 +22,7 @@ Utilize o menu lateral esquerdo para **navegar pelo conteúdo**, clicando para e
 
 Se preferir, acesse abaixo:
 1. [[Geral/_index|Geral]]
-2. [[Secretaria/index|Secretaria]]
+2. [[Secretaria/_index|Secretaria]]
 3. [[MGP/_index|MGP]]
 
 > [!tip] Dica

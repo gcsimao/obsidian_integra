@@ -9,9 +9,6 @@ import {
   splitAnchor,
   transformLink,
   joinSegments,
-  isSimpleSlug,
-  slugifyFilePath,
-  FilePath,
 } from "../../util/path"
 import path from "path"
 import { visit } from "unist-util-visit"
@@ -32,7 +29,7 @@ const defaultOptions: Options = {
   markdownLinkResolution: "absolute",
   prettyLinks: true,
   openLinksInNewTab: false,
-  lazyLoad: true,
+  lazyLoad: false,
   externalLinkIcon: true,
 }
 
@@ -51,17 +48,6 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
               strategy: opts.markdownLinkResolution,
               allSlugs: ctx.allSlugs,
             }
-          // Add frontmatter links to outgoing links (modified by me)
-          if (file.data.frontmatter) {
-            for (const [fmKey, fmValue] of Object.entries(file.data.frontmatter)) {
-              if (fmKey && typeof fmValue === "string") {
-                const dest = fmValue.match(/\[\[(.*)\]\]/)?.[1] as FilePath ?? null
-                if (dest) {
-                  outgoing.add(simplifySlug(slugifyFilePath(dest)))
-                }
-              }
-            }
-          }
 
             visit(tree, "element", (node, _index, _parent) => {
               // rewrite all links
@@ -82,7 +68,6 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     properties: {
                       class: "external-icon",
                       viewBox: "0 0 512 512",
-                      
                     },
                     children: [
                       {
@@ -96,11 +81,6 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     ],
                   })
                 }
-                if (isExternal && opts.externalLinkIcon) {
-                  node.properties.target = "_blank"
-                  node.properties.title = "Abrir link em nova aba"
-                }
-              
 
                 // Check if the link has alias text
                 if (
@@ -124,7 +104,6 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     file.data.slug!,
                     dest,
                     transformOptions,
-                    // node.properties.target = "",
                   )
 
                   // url.resolve is considered legacy

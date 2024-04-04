@@ -1,8 +1,6 @@
 ---
 title: O Sistema
-tags: 
-aliases:
-  - [["Geral"]]
+tags:
 ---
 O Integra Extrajudicial é o sistema informatizado de gestão eletrônica de notícias de fato e demais [[Tipos de Procedimentos|procedimentos extrajudiciais]] da atividade finalística do  [Ministério Público do Estado do Rio de Janeiro](https://www.mprj.mp.br/) .
 

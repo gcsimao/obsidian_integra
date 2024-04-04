@@ -1,7 +1,6 @@
 ---
 title: Tipos de Arquivos Suportados
-tags: 
-related: "[[O Sistema]]"
+tags:
 ---
 ## Lista de Extensões Suportadas
 

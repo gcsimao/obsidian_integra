@@ -2,7 +2,6 @@
 title: Legados X Nato Digitais
 tags:
   - conceito
-aliases:
 ---
 ## Procedimentos Legados
 

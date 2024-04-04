@@ -70,9 +70,6 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
             if (aliases) data.aliases = aliases
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]))
             if (cssclasses) data.cssclasses = cssclasses
-            //modified by me
-            const related = coerceToArray(coalesceAliases(data, ["related", "relate"]))
-            if (related) data.related = related
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
@@ -96,7 +93,6 @@ declare module "vfile" {
         lang: string
         enableToc: string
         cssclasses: string[]
-        related: string[] //modified by me
       }>
   }
 }

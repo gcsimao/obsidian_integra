@@ -12,3 +12,5 @@ A migração dos procedimentos se dá por meio da funcionalidade de [[Importar P
 
 >[!attention] Atenção
 >Consoante o art. 3º, § único da Res. 2.584/2024, os procedimentos tramitando há mais de 3 anos a partir da publicação da norma, terão sua migração facultativa.
+
+[[Secretaria/_index|teste]]
