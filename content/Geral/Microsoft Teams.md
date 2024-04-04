@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams
 tags:
-  - Comunicação
+  - comunicacao
 ---
 O Microsoft Teams é a ferramenta de comunicação oficial adotada pela instituição e utilizamos este canal para manter a comunicação com o usuário, em diversos chats das capacitações que já foram ministradas.
 ## Dúvidas

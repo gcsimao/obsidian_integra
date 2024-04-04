@@ -19,7 +19,7 @@ Vejamos:
 
 ![[Barra de Ações lado direito.png]]*Lado direito da Barra de Ações*
 1. [[Painel de Downloads|Painel de Downloads]]
-2. [[Configurar o Endereço e Telefone do Órgão|Configurar o Endereço e Telefone do Órgão]]
+2. [[Configurar o Endereço e Telefone|Configurar o Endereço e Telefone]]
 3. [[Painel de Acompanhamento|Painel de Acompanhamento]]
 4. [[Aplicações do Portal Integra|Aplicações do Portal Integra]]
 5. [[Visão de Membro e Secretaria|Visão de Membro e Secretaria]]

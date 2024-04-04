@@ -550,11 +550,13 @@ img {
 .gif:hover {
   display: block;
   cursor: pointer;
-  transform: scale(2);
+  transform: scale(1.8);
   max-width: 100%;
+  height: auto;
   position: relative;
   z-index: 9998;
- }
+  filter: brightness(100%) contrast(120%);
+  }
 
  .external-embed {
   display: block;
@@ -574,6 +576,15 @@ img {
 
 
 p > img + em {
+  display: block;
+  transform: translateY(-1rem);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: small;
+}
+
+.gif-player + p {
   display: block;
   transform: translateY(-1rem);
   margin-left: auto;
@@ -665,7 +676,6 @@ ol.overflow {
 ::-webkit-scrollbar-thumb {
   background: var(--lightgray); /* Color of the scrollbar handle */
   border-radius: 5px;
-  
 }
 
 /* Handle on hover */

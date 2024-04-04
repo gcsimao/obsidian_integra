@@ -41,7 +41,7 @@ const config: QuartzConfig = {
           linkHighlight: "#f3f3f390",
         },
       darkMode: {
-          light: "#112222",
+          light: "#1f1f1f",
           lightgray: "#89898970",
           gray: "#646464",
           darkgray: "#d5d5d5",

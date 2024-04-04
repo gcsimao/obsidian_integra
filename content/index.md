@@ -16,10 +16,14 @@ Além disso, o manual está repleto de imagens, dicas, vídeos e links externos 
 ## Navegação pelo Conteúdo
 Utilize o menu lateral esquerdo para **navegar pelo conteúdo**, clicando para expandir o conteúdo dentro de cada pasta.
 
+>[!attention] Atenção
+>Caso não esteja visualizando os menus laterais, diminua o zoom do seu navegador e/ou maximize esta janela!
+
+
 Se preferir, acesse abaixo:
-1. [[Geral/index|Geral]]
+1. [[Geral/_index|Geral]]
 2. [[Secretaria/index|Secretaria]]
-3. [[MGP/index|MGP]]
+3. [[MGP/_index|MGP]]
 
 > [!tip] Dica
 > Sempre que um texto estiver com as cores acima, significa que é um **link interno** e você pode clicar para navegar a página ou apenas passar o mouse sobre o link para pré visualizar seu teor.
@@ -33,7 +37,7 @@ Acima do conteúdo, há a **barra de pesquisas**, que será muito útil para enc
 
 ## Alterar Tema
 
-Abaixo da barra de pesquisas é possível alterar entre os temas claro e escuro. Ajuste para o que for mais confortável para você!
+Ao lado da barra de pesquisas é possível alterar entre os temas claro e escuro. Ajuste para o que for mais confortável para você!
 ## Gráfico Local e Global
 
 Do lado superior direito, há um gráfico que mostra a <u>relação da página atual com outras</u>. 
@@ -51,23 +55,25 @@ O sumário fica localizado logo abaixo da Visão de Gráfico e pode ser muito ú
 
 Algumas páginas podem conter hashtags (**#**) que serão exibidas no topo
 
-Ao clicar sobre elas, uma [[tags/|tag]] listará todos os artigos que contenham a hashtag em questão.
+Ao clicar sobre elas, uma [[tags/|tag]] listará todos as páginas que contenham a hashtag em questão.
 
 ## Links para esta Página
 
 Ao final, do lado direito, há o link de todas as páginas que fazem referência a esta.
 
+## Tutoriais
+
+Sempre que houve um pequeno vídeo demostrando uma funcionalidade do sistema, você pode repousar o mouse sobre ele para ampliar a visualização.
+
+![[Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></P>
 ## Quadros Informativos
 
-Ao longo do manual, como já vimos acima, temos quadros de **dicas e informações adicionais.**
+Ao longo do manual, como já vimos acima, temos quadros de **dicas, alertas de atenção e informações adicionais.**
 
-Temos ainda, mais três tipos: **Exemplos, alertas de Atenção e Cuidado**.
+Temos ainda, outros dois  tipos: **Exemplos e alertas de Cuidado**.
 
 >[!example]+ Exemplo
 >Isto é um exemplo. Se ele for muito grande, use o ícone de seta para expandir e colapsar o quadro.
-
->[!attention] Atenção
->Este quadro contem informações importantes e deve ser lido sempre.
 
 >[!danger] Cuidado
 >Geralmente esse quadro conterá informações **muito importantes** relacionadas a **ações irreversíveis**.

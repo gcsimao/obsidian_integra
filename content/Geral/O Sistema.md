@@ -16,7 +16,7 @@ Atualmente, a utilização do sistema é regulada pela [Resolução GPGJ N.º 2.
 
 ## Versão e Atualizações
 
-Atualmente o sistema se encontra na **versão 2.60** e está em constante evolução a fim de atender às necessidades dos usuários, em congruência com os objetivos estratégicos do MPRJ.
+**Atualmente o sistema se encontra na versão 2.60** e está em constante evolução a fim de atender às necessidades dos usuários, em congruência com os objetivos estratégicos do MPRJ.
 
 As mudanças e atualizações são muito dinâmicas, então é muito importante acompanhar os informativos divulgados pelos [[Microsoft Teams|chats do Microsoft Teams]].
 

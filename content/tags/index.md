@@ -1,3 +1,0 @@
----
-title: Sumário de Tags
----

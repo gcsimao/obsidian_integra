@@ -2,7 +2,7 @@
 title: Atualizações do Sistema
 draft: false
 tags:
-  - Comunicação
+  - comunicacao
 ---
 Abaixo, a listagem das últimas atualizações do sistema:
 > [!tip] Dica

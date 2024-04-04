@@ -1,7 +1,7 @@
 ---
 title: Integração com o MGP
 tags:
-  - IntegraçãoMGP
+  - integracaoMGP
 review: true
 ---
 ## Integração com o MGP

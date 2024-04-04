@@ -1,7 +1,7 @@
 ---
 title: Implantação e Migração
 tags:
-  - Conceito
+  - conceito
 draft: false
 ---
 ## Implantação do Sistema

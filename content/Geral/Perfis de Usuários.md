@@ -37,7 +37,7 @@ Ações que são **exclusivas deste perfil**:
 
 <u>Além dos membros</u>, também são o único perfil capaz de:
 - Autuar Notícias de Fato [[Legados X Nato Digitais#Nato Digitais|nato digitais]] **não sigilosas**
-- [[Configurar o Endereço e Telefone do Órgão|Alterar o endereço e telefone do órgão]]
+- [[Configurar o Endereço e Telefone|Alterar o endereço e telefone do órgão]]
 
 **Não** são capazes de:
 - Visualizar documentos desentranhados
@@ -47,7 +47,7 @@ Ações que são **exclusivas deste perfil**:
 ## Residentes Jurídicos
 
 Possuem o perfil "residente_juridico" e possuem algumas limitações em relação ao perfil "analista_promotor" concedido aos servidores, tais como:
-- Não são capazes de [[Configurar o Endereço e Telefone do Órgão|Configurar o Endereço e Telefone do Órgão]]
+- Não são capazes de [[Configurar o Endereço e Telefone|Configurar o Endereço e Telefone]]
 - Não podem confirmar nenhum documento na [[Árvore de Documentos|árvore de documentos]] dos procedimentos
 - Visualização restrita de procedimentos sigilosos
 
