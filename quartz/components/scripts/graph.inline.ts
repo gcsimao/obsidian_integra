@@ -132,7 +132,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .append("svg")
     .attr("width", width)
     .attr("height", height)
-    .attr("viewBox", [-width / 2 / scale, -height / 2.2 / scale, width / scale, height / scale])
+    .attr("viewBox", [-width / 2 / scale, -height / 2 / scale, width / scale, height / scale])
 
   // draw links between nodes
   const link = svg
@@ -271,7 +271,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .attr("dy", (d) => -nodeRadius(d) + "px")
     .attr("text-anchor", "middle")
     .text((d) => d.text)
-    .style("opacity", (opacityScale) / 2.75) //modified by me - original is (opacityScale - 1 ) / 3.75)
+    .style("opacity", (opacityScale -1 ) / 1.75) //modified by me - original is (opacityScale - 1 ) / 3.75)
     .style("pointer-events", "none")
     .style("font-size", fontSize + "em")
     .raise()
@@ -292,7 +292,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
           link.attr("transform", transform)
           node.attr("transform", transform)
           const scale = transform.k * opacityScale
-          const scaledOpacity = Math.max((scale ) / 2.75, 0) //modified by me - original is Math.max((scale -1) / 3.75, 0)
+          const scaledOpacity = Math.max((scale -1 ) / 1.75, 0) //modified by me - original is Math.max((scale -1) / 3.75, 0)
           labels.attr("transform", transform).style("opacity", scaledOpacity)
         }),
     )
