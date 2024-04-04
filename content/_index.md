@@ -1,7 +1,7 @@
 ---
 title: Manual do Usuário
 draft: false
-description: Isso é um teste somente
+description: Em formato Wiki, aqui você encontra tudo que precisar sobre o sistema. Recheado de imagens, dicas, vídeos e links, a informação fica na palma da mão!
 ---
 ___
 **Bem vindo** a mais nova e atualizada versão do Manual do Usuário do [[O Sistema|Integra Extrajudicial]].
