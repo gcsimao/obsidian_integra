@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-BR",
-    baseUrl: "https://gcsimao.github.io/manual_integra_extrajudicial/",
+    baseUrl: "gcsimao.github.io/manual_integra_extrajudicial/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
