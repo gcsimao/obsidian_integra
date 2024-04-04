@@ -47,11 +47,11 @@ O sumário fica localizado logo abaixo da Visão de Gráfico e pode ser muito ú
 
 > [!tip] Dica
 > Ao passa o mouse sobre cada título, na parte central da página, é possível copiar o link exato para aquele local. Assim fica fácil ajudar os colegas sobre onde encontrar determinada informação.
-## Hastags
+## Hashtags
 
 Algumas páginas podem conter hashtags (**#**) que serão exibidas no topo
 
-Ao clicar sobre elas, uma [[tags/]] listará todos os artigos que contenham a hashtag em questão.
+Ao clicar sobre elas, uma [[tags/|tag]] listará todos os artigos que contenham a hashtag em questão.
 
 ## Links para esta Página
 

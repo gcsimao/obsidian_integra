@@ -207,14 +207,15 @@ a.data-footnote-backref {
     }
 
     & .sidebar.left {
-     
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
+      
       }
     }
    
+
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
@@ -654,7 +655,7 @@ ol.overflow {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: var(--linkHighlight); /* Color of the track */
+  background: #c4c4c430; /* Color of the track */
   border-radius: 5px;
   
 }
@@ -673,3 +674,30 @@ ol.overflow {
   border-radius: 5px;
 }
 
+.left {
+  display: grid !important;
+  gap: 1.5rem !important;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(4, min-content);
+  align-items: center;
+
+
+  .page-title {
+    grid-area: 1 / 2 / 1 /1;
+  }
+  .search {
+    grid-area: 2 / 1 / 2 / 2;
+  }
+
+  .darkmode {
+    grid-area: 2 / 2 / 2 / 4;
+  }
+
+  .explorer.desktop-only {
+    grid-area: 3 / 1 / 4 / 4;
+  }
+
+  @media all and (max-width: $fullPageWidth) {
+    display: flex !important;
+  }
+}

@@ -7,7 +7,9 @@
 
   & > #search-icon {
     background-color: #a6a6a630;
-    border-radius: 8px;
+    width: 15em;
+    text-align: center;
+    border-radius: 16px;
     height: 2rem;
     display: flex;
     align-items: center;
@@ -63,7 +65,7 @@
       margin-right: auto;
 
       @media all and (max-width: $fullPageWidth) {
-        width: 90%;
+        width: 100%;
       }
 
       & > * {
