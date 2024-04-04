@@ -19,7 +19,7 @@ Após, basta clicar em seu avatar para acessar as [[Aplicações do Portal Integ
 
 ## Senha
 
-A senha é a mesma utilizada no [[MGP/_index|MGP]].
+A senha é a mesma utilizada no [[MGP/index|MGP]].
 
 >[!danger] Cuidado
 >**Nunca** compartilhe sua senha e certifique-se que seja uma senha forte, contendo:

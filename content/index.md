@@ -22,9 +22,9 @@ Utilize o menu lateral esquerdo para **navegar pelo conteúdo**, clicando para e
 
 
 Se preferir, acesse abaixo:
-1. [[Geral/_index|Geral]]
-2. [[Secretaria/_index|Secretaria]]
-3. [[MGP/_index|MGP]]
+1. [[Geral/index|Geral]]
+2. [[Secretaria/index|Secretaria]]
+3. [[MGP/index|MGP]]
 
 > [!tip] Dica
 > Sempre que um texto estiver com as cores acima, significa que é um **link interno** e você pode clicar para navegar a página ou apenas passar o mouse sobre o link para pré visualizar seu teor.
