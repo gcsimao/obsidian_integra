@@ -5,6 +5,8 @@ description: Em formato Wiki, aqui você encontra tudo que precisar sobre o sist
 ---
 ___
 **Bem vindo** a mais nova e atualizada versão do Manual do Usuário do [[O Sistema|Integra Extrajudicial]].
+
+Veja aqui um [[_Guia de Início Rápido|_Guia de Início Rápido]]
 ## Como utilizar este Manual
 Este manual foi elaborado em formato de *Wiki*, portanto **seu conteúdo não é linear**.
 
@@ -66,7 +68,7 @@ Ao final, do lado direito, há o link de todas as páginas que fazem referência
 
 Sempre que houve um pequeno vídeo demostrando uma funcionalidade do sistema, você pode repousar o mouse sobre ele para ampliar a visualização.
 
-![[Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></P>
+![[_images/Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></P>
 ## Quadros Informativos
 
 Ao longo do manual, como já vimos acima, temos quadros de **dicas, alertas de atenção e informações adicionais.**

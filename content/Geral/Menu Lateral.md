@@ -12,4 +12,4 @@ Por meio deste menu, é possível:
 3. Acessar este [[index|Manual]]
 
 ## Como fazer
-![[Menu Lateral.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
+![[../_images/Menu Lateral.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>

@@ -8,7 +8,7 @@ tags:
 São os procedimentos que tramitavam em [[Físicos X Eletrônicos#Procedimentos Físicos|suporte físico]] e que foram [[Importar Procedimentos Legados|importados]] para o sistema, passando a serem considerados [[Físicos X Eletrônicos|eletrônicos]].
 
 Estes procedimentos conterão um ícone indicativo no [[Card do Procedimento|card do procedimento]].
-![[Card Procedimento Legado.png]]
+![[../_images/Card Procedimento Legado.png]]
 ## Nato Digitais
 
 São todos aqueles procedimentos que foram [[Criar Procedimento|criados diretamente no sistema]] e não possuirão o ícone mostrado acima.

@@ -8,7 +8,7 @@ review:
 ---
 No primeiro [[Login no Sistema|acesso ao sistema]], todos os usuários, independentemente do [[Perfis de Usuários|perfil]], irão se deparar com a tela mostrada abaixo. Entretanto, **somente membros serão capazes de salvar e confirmar** a informação inserida.
 
-![[Configuração - Portaria.png]]
+![[../_images/Configuração - Portaria.png]]
 
 >[!danger] Cuidado
 >* Leia atentamente o aviso exibido na tela, pois após a confirmação não será possível alterar a numeração pelo sistema, sendo necessário abrir um chamado via [[Helpdesk]]

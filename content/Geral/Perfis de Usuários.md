@@ -12,7 +12,7 @@ No primeiro grupo, entram os Promotores e Procuradores de Justiça; no segundo, 
 > Colabores terceirizados não possuem acesso ao sistema.
 
 Para verificar qual o seu perfil, clique no avatar localizado na [[Barra de Ações do Sistema|barra superior do sistema]].
-![[Perfil de usuário.png]] *Avatar: Perfil de usuário*
+![[../_images/Perfil de usuário.png]] *Avatar: Perfil de usuário*
 Veremos adiante os perfis em detalhes.
 ## Membros
 
@@ -51,7 +51,7 @@ Possuem o perfil "residente_juridico" e possuem algumas limitações em relaçã
 - Não podem confirmar nenhum documento na [[Árvore de Documentos|árvore de documentos]] dos procedimentos
 - Visualização restrita de procedimentos sigilosos
 
-![[Card sigiloso.png]] *Visualização restrita de sigilosos*
+![[../_images/Card sigiloso.png]] *Visualização restrita de sigilosos*
 
 Com anuência da chefia imediata e por solicitação feita ao [[Helpdesk|Helpdesk]], poderá ser concedido o perfil "analista_promotor" ao residente jurídico lotado no órgão.
 

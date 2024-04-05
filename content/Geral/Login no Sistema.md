@@ -12,7 +12,7 @@ O sistema pode ser acessado pelo [[Portal Integra]], disponível no endereço [i
 
 Após, basta clicar em seu avatar para acessar as [[Aplicações do Portal Integra|Aplicações do Portal]] e selecionar "Extrajudicial"
 
-![[Login no sistema.png]]*Avatar e aplicações do portal*
+![[../_images/Login no sistema.png]]*Avatar e aplicações do portal*
 
 > [!info] Informação
 > **Não é necessário** estar logado na [Intranet](https://seguro.mprj.mp.br/web/intranet)!
@@ -37,7 +37,7 @@ Quaisquer problemas de acesso ao sistema devem ser resolvidos pelo [[Helpdesk]].
 
 ## Como fazer
 
-![[Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
+![[../_images/Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
 
 
 

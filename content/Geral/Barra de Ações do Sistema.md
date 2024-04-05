@@ -10,14 +10,14 @@ Nesta barra ficam localizadas algumas informações bem como alguns menus, filtr
 Vejamos:
 ## Lado esquerdo
 
-![[Barra de Ações lado  lado esquerdo.png]]*Lado esquerdo da Barra de Ações*
+![[../_images/Barra de Ações lado  lado esquerdo.png]]*Lado esquerdo da Barra de Ações*
 1. [[Menu Lateral|Menu Lateral]]
 2. Exibição do quantitativo de procedimentos em determinada [[Situação do Procedimento|Situação do Procedimento]]
 3. [[Seletor do Órgão de Atuação|Seletor do Órgão de Atuação]]
 
 ## Lado Direito
 
-![[Barra de Ações lado direito.png]]*Lado direito da Barra de Ações*
+![[../_images/Barra de Ações lado direito.png]]*Lado direito da Barra de Ações*
 1. [[Painel de Downloads|Painel de Downloads]]
 2. [[Configurar o Endereço e Telefone|Configurar o Endereço e Telefone]]
 3. [[Painel de Acompanhamento|Painel de Acompanhamento]]

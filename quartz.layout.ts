@@ -79,9 +79,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
                 sortFn: (a, b) => {
                 const nameOrderMap: Record<string, number> = {
-                  "Geral": 100,
-                  "Secretaria": 200,
-                  "MGP": 300,
+                  "Início Rápido": 100,
+                  "Geral": 200,
+                  "Secretaria": 300,
+                  "MGP": 400,
                 }
             
                 let orderA = 0

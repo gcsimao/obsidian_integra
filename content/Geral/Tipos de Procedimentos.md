@@ -14,7 +14,7 @@ Atualmente o sistema suporta 4 (quatro) tipos de procedimentos, tanto na [[Criar
 
 Para cada tipo de procedimento, o [[Card do Procedimento|Card do Procedimento]] conterá uma cor específica para melhor identificação. 
 
-![[Card - Hint de Tipo e Classe.png]]
+![[../_images/Card - Hint de Tipo e Classe.png]]
 > [!info] Informação
 > Ao repousar o mouse sobre o Tipo do Procedimento, uma legenda é exibida. Note que **para o PA**, além do tipo **também é exibida sua classe**.
 
