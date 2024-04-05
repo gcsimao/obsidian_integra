@@ -69,6 +69,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     properties: {
                       class: "external-icon",
                       viewBox: "0 0 512 512",
+                      
                     },
                     children: [
                       {
@@ -82,6 +83,11 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     ],
                   })
                 }
+                if (isExternal && opts.externalLinkIcon) {
+                  node.properties.target = "_blank"
+                  node.properties.title = "Abrir link em nova aba"
+                }
+              
 
                 // Check if the link has alias text
                 if (
@@ -105,7 +111,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     file.data.slug!,
                     dest,
                     transformOptions,
-                    node.properties.target = "",
+                    // node.properties.target = "",
                   )
 
                   // url.resolve is considered legacy
