@@ -6,7 +6,7 @@ description: Em formato Wiki, aqui você encontra tudo que precisar sobre o sist
 ___
 **Bem vindo** a mais nova e atualizada versão do Manual do Usuário do [[O Sistema|Integra Extrajudicial]].
 
-Veja aqui um [[_Guia de Início Rápido|_Guia de Início Rápido]]
+Veja aqui um [[_Guia de Início Rápido|Guia de Início Rápido]]
 ## Como utilizar este Manual
 Este manual foi elaborado em formato de *Wiki*, portanto **seu conteúdo não é linear**.
 
@@ -24,6 +24,10 @@ Utilize o menu lateral esquerdo para **navegar pelo conteúdo**, clicando para e
 
 
 Se preferir, acesse abaixo:
+
+1. [[Geral/index|Geral]]
+2. [[MGP/index|MGP]]
+3. [[Secretaria/index|Secretaria]]
 
 
 
