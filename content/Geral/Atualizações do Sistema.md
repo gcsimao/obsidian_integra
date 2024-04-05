@@ -17,7 +17,7 @@ O Integra Extrajudicial está em constante evolução a fim de atender às neces
 | 15/08/23 | 2.51   | [Integra Extrajudicial - Release Notes v2.51.pdf](https://mprj.sharepoint.com/:b:/s/dti-gsi-integraextr/EQMGV6HuLd9Lo1mKVa_6K6ABuMzDgT7m1W4moAaDOK4veg?e=7iKtIK)         |
 | 31/08/23 | 2.52   | [Integra Extrajudicial - Release Notes v2.52.pdf](https://mprj.sharepoint.com/:b:/s/dti-gsi-integraextr/EfrhSrDoppVDj00mKoC_XdUBftPytdT3N5eRZ9k7QJtvxg?e=k9LgSY)         |
 | 23/10/23 | 2.53   | [Integra Extrajudicial - Atualizações da Versão 2.53.pdf](https://mprj.sharepoint.com/:b:/s/dti-gsi-integraextr/ESjwHLGa19FIryEuTIS9r_AB675S1LDnLgwG-eTFiGCCCA?e=SWjqqY) |
-| 31/10/23 | 2.54   | Concessão de privilégio especial aos estagiários (ver: [[Perfis de Usuários\|Perfis de Usuários]])                                                                       |
+| 31/10/23 | 2.54   | Concessão de privilégio especial aos estagiários                                                                                                                         |
 | 08/11/23 | 2.55   | Melhoria de performance e correção de bugs                                                                                                                               |
 | 10/01/24 | 2.56   | [Integra Extrajudicial - Atualizações da Versão 2.56.pdf](https://mprj.sharepoint.com/:b:/s/dti-gsi-integraextr/EaAO75OrUjFBkX37hLaccSwBgmpCEfXYjhy7q4kdemvzTw?e=9ApEjc) |
 | 22/01/24 | 2.57   | Melhoria de performance                                                                                                                                                  |
@@ -27,3 +27,4 @@ O Integra Extrajudicial está em constante evolução a fim de atender às neces
 ___
 **Ver também:**
 - [[Microsoft Teams#Bugs|Bugs]]
+- [[Perfis de Usuários|Perfis de Usuários]]
