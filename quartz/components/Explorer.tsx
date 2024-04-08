@@ -13,28 +13,46 @@ const defaultOptions = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
+  // mapFn: (node) => {
+  //   return node
+  // },
   mapFn: (node) => {
-    return node
+    // dont change name of root node
+    if (node.depth > 0) {
+      // set emoji for file/folder
+      if (node.file) {
+        node.displayName = "📄 " + node.displayName
+      }
+    }
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabetically
-    if ((!a.file && !b.file) || (a.file && b.file)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
+    const nameOrderMap: Record<string, number> = {
+      "Secretaria": 200,
+      "MGP": 300,
+      "Geral": 100,
     }
-
-    if (a.file && !b.file) {
-      return 1
-    } else {
-      return -1
+ 
+    let orderA = 0
+    let orderB = 0
+ 
+    if (a.file && a.file.slug) {
+      orderA = nameOrderMap[a.file.slug] || 0
+    } else if (a.name) {
+      orderA = nameOrderMap[a.name] || 0
     }
+ 
+    if (b.file && b.file.slug) {
+      orderB = nameOrderMap[b.file.slug] || 0
+    } else if (b.name) {
+      orderB = nameOrderMap[b.name] || 0
+    }
+ 
+    return orderA - orderB
   },
+
   filterFn: (node) => node.name !== "tags",
   order: ["filter", "map", "sort"],
+  
 } satisfies Options
 
 export default ((userOpts?: Partial<Options>) => {

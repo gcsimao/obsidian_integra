@@ -12,7 +12,7 @@ const observer = new IntersectionObserver((entries) => {
     } else {
       explorerUl.classList.remove("no-background")
     }
-  }
+  } 
 })
 
 function toggleExplorer(this: HTMLElement) {

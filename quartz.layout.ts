@@ -26,36 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      sortFn: (a, b) => {
-        const nameOrderMap: Record<string, number> = {
-          "Geral": 100,
-          "Secretaria": 200,
-          "MGP": 300,
-        }
-     
-        let orderA = 0
-        let orderB = 0
-     
-        if (a.file && a.file.slug) {
-          orderA = nameOrderMap[a.file.slug]
-        } else if (a.name) {
-          orderA = nameOrderMap[a.name]
-        }
-     
-        if (b.file && b.file.slug) {
-          orderB = nameOrderMap[b.file.slug]
-        } else if (b.name) {
-          orderB = nameOrderMap[b.name]
-        }
-     
-        return orderA - orderB
-      },
-      filterFn: (node) => {
-        // exclude files with the tag "explorerexclude"
-        return (node.file?.frontmatter?.tags?.includes("") !== true && node.name !== "tags" && node.name !== "_images" && node.name !== "_templates")
-      },
-    })),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph(),
@@ -76,38 +47,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-                sortFn: (a, b) => {
-                const nameOrderMap: Record<string, number> = {
-                  "Início Rápido": 100,
-                  "Geral": 200,
-                  "Secretaria": 300,
-                  "MGP": 400,
-                }
-            
-                let orderA = 0
-                let orderB = 0
-            
-                if (a.file && a.file.slug) {
-                  orderA = nameOrderMap[a.file.slug]
-                } else if (a.name) {
-                  orderA = nameOrderMap[a.name]
-                }
-            
-                if (b.file && b.file.slug) {
-                  orderB = nameOrderMap[b.file.slug]
-                } else if (b.name) {
-                  orderB = nameOrderMap[b.name]
-                }
-            
-                return orderA - orderB
-              },
-              filterFn: (node) => {
-                const excludedFolders = ["tags", "_images", "_templates"];
-                // exclude files with the tag "explorerexclude"
-                return (node.file?.frontmatter?.tags?.includes("") !== true && !excludedFolders.includes(node.name));
-              },
-            })),
+    Component.DesktopOnly(Component.Explorer()),
         ],
   right: [
     Component.Graph(),

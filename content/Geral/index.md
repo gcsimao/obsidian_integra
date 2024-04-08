@@ -23,6 +23,6 @@ review: false
 
 ```dataview
 table from "Geral"
-where file.name != "_index"
+where file.name != "index"
 ```
 
