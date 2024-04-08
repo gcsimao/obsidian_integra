@@ -9,5 +9,5 @@ tags:
 
 ```dataview
 list from "MGP"
-where file.name != "_index"
+where file.name != "index"
 ```
