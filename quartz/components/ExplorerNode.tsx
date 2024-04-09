@@ -14,7 +14,7 @@ type OrderEntries = "sort" | "filter" | "map"
 export interface Options {
   title?: string
   folderDefaultState: "collapsed" | "open"
-  folderClickBehavior: "collapse" | "open"
+  folderClickBehavior: "collapse" | "link"
   useSavedState: boolean
   sortFn: (a: FileNode, b: FileNode) => number
   filterFn: (node: FileNode) => boolean
