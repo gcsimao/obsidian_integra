@@ -13,7 +13,7 @@ Vejamos:
 ![[../_images/Barra de Ações lado  lado esquerdo.png]]*Lado esquerdo da Barra de Ações*
 1. [[Menu Lateral|Menu Lateral]]
 2. Exibição do quantitativo de procedimentos em determinada [[Situação do Procedimento|Situação do Procedimento]]
-3. [[Seletor do Órgão de Atuação|Seletor do Órgão de Atuação]]
+3. [[Selecionar Órgão de Atuação|Selecionar Órgão de Atuação]]
 
 ## Lado Direito
 

@@ -33,7 +33,7 @@ Após, basta clicar em seu avatar para acessar as aplicações e sistema do port
 
 ![[../_images/Login no sistema.png]]*Avatar e aplicações do portal*
 
-Feito isso, você será redirecionado para a [[Caixa de Procedimentos|Caixa de Procedimentos]] ou, *caso lotado/designado em mais de um órgão*, será instado a [[Seletor do Órgão de Atuação|selecionar o órgão de atuação]].
+Feito isso, você será redirecionado para a [[Caixa de Procedimentos|Caixa de Procedimentos]] ou, *caso lotado/designado em mais de um órgão*, será instado a [[Selecionar Órgão de Atuação|selecionar o órgão de atuação]].
 ## Problemas de Acesso
 
 Quaisquer problemas de acesso ao sistema devem ser resolvidos pelo [[Helpdesk]].

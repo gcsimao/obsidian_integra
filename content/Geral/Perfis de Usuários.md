@@ -22,7 +22,7 @@ Possuem perfil  "promotor" ou "procurador", podem visualizar [[Decretar Levantar
 - [[Desentranhar Documentos|Desentranhar]] documentos e visualizar o documento que foi desentranhado
 - Autuar ou Instaurar [[Importar Procedimentos Legados|procedimentos legados]]
 - Instaurar procedimentos formais (PP, IC e PA) [[Criar Procedimento|criados]] no Integra Extra
-- Autuar [[Autuar Notícia de Fato|Notícias de Fato]] sigilosas [[Legados X Nato Digitais#Nato Digitais|Nato Digitais]]
+- Autuar [[Autuação e Instauração de Rascunhos|NFs]] sigilosas [[Legados X Nato Digitais#Nato Digitais|Nato Digitais]]
 
 Membros **apenas não são capazes de**:
 - [[Abrir Conclusão|Abrir Conclusão]] de procedimentos

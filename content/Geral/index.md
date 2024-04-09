@@ -20,6 +20,7 @@ review: false
 14. [[Menu Lateral]]
 15. [[Microsoft Teams]]
 16. [[Perfis de Usuários]]
+17. [[Personagens]]
 
 ```dataview
 table from "Geral"

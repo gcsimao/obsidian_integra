@@ -8,7 +8,7 @@ Atualmente, a utilização do sistema é regulada pela [Resolução GPGJ N.º 2.
 
 ## Vantagens
 
-* Quase todos os arquivos que compõem um procedimento ficam armazenados nas bases de dados institucionais, de forma segura e totalmente auditável. Assim, elimina-se quase que por completo[^1] a necessidade de uso de repositórios online de terceiros, como o Microsoft Sharepoint® e OneDrive®, por exemplo;
+* Quase todos os arquivos que compõem um procedimento ficam armazenados nas bases de dados institucionais, de forma segura e totalmente auditável. Assim, elimina-se quase que por completo[^1] a necessidade de uso de repositórios online de terceiros, como o [[Sharepoint, OneDrive e outros repositórios de arquivos|Microsoft Sharepoint® e OneDrive®]], por exemplo;
 * [[Integração com o MGP|Integração com o MGP]]: a maioria das ações realizadas pelo membro[^2] já estão integradas com o MGP, reduzindo significativamente a utilização deste sistema pelo usuário;
 * Rapidez e interface amigável: utilizamos as mais modernas tecnologias de design e desenvolvimento de software para entregar uma experiência fácil e intuitiva para o usuário.
 
@@ -29,7 +29,7 @@ ___
 
 **Ver também:**
  - [[Resoluções Aplicáveis|Resoluções Aplicáveis]]
- - [[Sharepoint, OneDrive e outros repositórios de arquivos|Sharepoint, OneDrive e outros repositórios de arquivos]]
+ 
 
 [^1]: Alguns arquivos ainda precisam ser mantidos em outros repositórios, face a algumas limitações técnicas do sistema.
 [^2]: Por ora, ações da secretaria - exceto a abertura de vista/conclusão - não são integradas com o MGP.

@@ -19,6 +19,3 @@ São todos os procedimentos que tramitam pelo sistema, tanto [[Legados X Nato Di
 Quando um procedimento passa a ter esse tipo de suporte, [[Bloqueio no MGP|vários bloqueios são realizados no MGP]].
 
 Caso um procedimento seja [[Declinar atribuição|declinado para um órgão ainda não usuário do sistema]], ele **voltará a ser considerado um procedimento físico.**
-___
- **Ver também** 
-- [[Legados X Nato Digitais#Procedimentos Legados|Procedimentos Legados]]
