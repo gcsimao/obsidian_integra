@@ -369,6 +369,11 @@ h3 {
   font-size: 1.12rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
+  &.tag-title {
+    margin-top: 2.62rem;
+    font-size: 1.22rem;
+    margin-bottom: 1.5rem;
+  }
 }
 
 h4,
@@ -683,6 +688,15 @@ ol.overflow {
   background: var(--gray); /* Color of the scrollbar handle on hover */
   border-radius: 5px;
 }
+
+ul.section-ul {
+    margin-top: 0px;
+    }
+
+// h3.tag-tile {
+//   margin-top: 10px;
+// }
+
 
 // .left {
 //   display: grid !important;

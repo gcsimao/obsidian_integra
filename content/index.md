@@ -23,11 +23,12 @@ Utilize o menu lateral esquerdo para **navegar pelo conteúdo**, clicando para e
 >Caso não esteja visualizando os menus laterais, diminua o zoom do seu navegador e/ou maximize esta janela!
 
 
-Se preferir, acesse abaixo:
+Se preferir, acesse as pastas abaixo:
 
 1. [[Geral/index|Geral]]
-2. [[MGP/index|MGP]]
-3. [[Secretaria/index|Secretaria]]
+2. [[Secretaria/index|Secretaria]]
+3. [[Funcionalidades/index|Funcionalidades]]
+4. [[MGP/index|MGP]]
 
 
 

@@ -30,6 +30,7 @@ const defaultOptions = {
       "Secretaria": 200,
       "MGP": 300,
       "Geral": 100,
+      "Funcionalidades": 201,
     }
  
     let orderA = 0

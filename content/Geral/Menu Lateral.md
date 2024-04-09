@@ -3,7 +3,7 @@ title: Menu Lateral
 tags:
   - menu
 draft: false
-review: true
+review: false
 ---
 ## Opções do Menu
 Por meio deste menu, é possível:

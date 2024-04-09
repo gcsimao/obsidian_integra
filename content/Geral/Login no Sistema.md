@@ -7,18 +7,15 @@ review:
 ---
 ## Endereço Web
 
-O sistema pode ser acessado pelo [[Portal Integra]], disponível no endereço [integra.mprj.mp.br](https://integra.mprj.mp.br).
-
-Após, basta clicar em seu avatar para acessar as [[Aplicações do Portal Integra|Aplicações do Portal]] e selecionar "Extrajudicial"
-
-![[../_images/Login no sistema.png]]*Avatar e aplicações do portal*
+O sistema pode ser acessado pelo Portal Integra, disponível no endereço [integra.mprj.mp.br](https://integra.mprj.mp.br).
 
 > [!info] Informação
-> **Não é necessário** estar logado na [Intranet](https://seguro.mprj.mp.br/web/intranet)!
+> **Não é necessário** estar logado na [Intranet](https://seguro.mprj.mp.br/web/intranet)! para acessar os sistemas.
 
-## Senha
+## Usuário e Senha
 
-A senha é a mesma utilizada no [[MGP/index|MGP]].
+Realize o login com seu nome de usuário e senha, que são os mesmos utilizados no [[MGP/index|MGP]].
+![[login.png]]*Tela de login*
 
 >[!danger] Cuidado
 >**Nunca** compartilhe sua senha e certifique-se que seja uma senha forte, contendo:
@@ -29,7 +26,14 @@ A senha é a mesma utilizada no [[MGP/index|MGP]].
 > - pelo menos 1 caractere especial
 >
 > Se necessário, solicite a alteração de sua senha [neste link](https://sistemas.mprj.mp.br/sca/trocaSenha).
+> 
+## Aplicações do Portal
 
+Após, basta clicar em seu avatar para acessar as aplicações e sistema do portal e selecionar "Extrajudicial"
+
+![[../_images/Login no sistema.png]]*Avatar e aplicações do portal*
+
+Feito isso, você será redirecionado para a [[Caixa de Procedimentos|Caixa de Procedimentos]] ou, *caso lotado/designado em mais de um órgão*, será instado a [[Seletor do Órgão de Atuação|selecionar o órgão de atuação]].
 ## Problemas de Acesso
 
 Quaisquer problemas de acesso ao sistema devem ser resolvidos pelo [[Helpdesk]].
