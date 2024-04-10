@@ -1,11 +1,12 @@
 ---
 title: Barra de Ações do Sistema
-tags: 
+tags:
+  - layout
 review: 
 draft:
 ---
 
-Nesta barra ficam localizadas algumas informações bem como alguns menus, filtros e botões de ação. 
+Localizada na [[Caixa de Procedimentos|Caixa de Procedimentos]], nesta barra ficam localizadas algumas informações bem como alguns menus, filtros e botões de ação. 
 
 Vejamos:
 ## Lado esquerdo

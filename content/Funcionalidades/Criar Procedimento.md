@@ -7,6 +7,10 @@ review:
 ---
 Localizado no **canto superior direito** da [[Barra de Ações do Sistema|barra de ações do sistema]], é por meio desse botão que é criado um [[Legados X Nato Digitais#Nato Digitais|procedimento nato digital]] no Integra Extrajudicial.
 
+> [!tip] Dica
+> Após [[#Salvando o Rascunho|salvar as informações ao final]], **veja em seguida:**
+>  1. [[Editar Rascunhos e Incluir Documentos|Editar Rascunhos e Incluir Documentos]]  
+>  2. [[Autuação e Instauração de Rascunhos|Autuação e Instauração de Rascunhos]]
 ## Dados Básicos do Procedimento
 
 Ao clicar no botão, a seguinte tela será exibida para preenchimento dos dados básicos do sistema.
@@ -93,16 +97,13 @@ Campo de texto livre, *limitado a 50 caracteres* e se propõe à rápida identif
 
 ## Salvando o Rascunho
 
-Após preenchidos os dados acima, clique em SALVAR ao final da tela.
+Após preenchidos todos os dados básicos, clique em SALVAR ao final da tela.
 
 Neste momento, o usuário será direcionado para dentro do [[O Procedimento|procedimento]], que ainda estará sobre a forma de [[Rascunhos|rascunho]].
 
 Para concluir a autuação/instauração, será necessária a inclusão de documentos para compor a [[Árvore de Documentos|árvore do procedimento]].
 
-> [!tip] Dica
-> **Veja em seguida:**
->  1. [[Inclusão de Documentos em Rascunhos|Inclusão de Documentos em Rascunhos]]  
->  2. [[Autuação e Instauração de Rascunhos|Autuação e Instauração de Rascunhos]].
+
 
 ## Como fazer
 

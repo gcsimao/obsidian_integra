@@ -1,7 +1,8 @@
 ---
 title: Obrigatoriedade de Uso
 draft: false
-tags: []
+tags:
+  - "#legislacao"
 ---
 Por força da [Resolução GPGJ N.º 2.584/2024](https://www.mprj.mp.br/documents/20184/4541307/26.03.2024.pdf#page=3), desde 26 de março de 2024 o sistema se tornou de uso obrigatório em várias Promotorias de Justiça, que já estavam [[Promotorias Elegíveis|elegíveis]] ao uso.
 

@@ -27,10 +27,11 @@ const defaultOptions = {
   },
   sortFn: (a, b) => {
     const nameOrderMap: Record<string, number> = {
-      "Secretaria": 200,
-      "MGP": 300,
       "Geral": 100,
-      "Funcionalidades": 201,
+      "Procedimentos": 201,
+      "Funcionalidades": 202,
+      "Secretaria": 203,
+      "MGP": 300,
     }
  
     let orderA = 0

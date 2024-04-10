@@ -26,9 +26,10 @@ Utilize o menu lateral esquerdo para **navegar pelo conteúdo**, clicando para e
 Se preferir, acesse as pastas abaixo:
 
 1. [[Geral/index|Geral]]
-2. [[Secretaria/index|Secretaria]]
+2. [[Procedimentos/index|Procedimentos]]
 3. [[Funcionalidades/index|Funcionalidades]]
-4. [[MGP/index|MGP]]
+4. [[Secretaria/index|Secretaria]]
+5. [[MGP/index|MGP]]
 
 
 
@@ -62,7 +63,7 @@ O sumário fica localizado logo abaixo da Visão de Gráfico e pode ser muito ú
 
 Algumas páginas podem conter hashtags (**#**) que serão exibidas no topo
 
-Ao clicar sobre elas, uma [[tags/|tag]] listará todos as páginas que contenham a hashtag em questão.
+Ao clicar sobre elas, uma [[tags/index|tag]] listará todos as páginas que contenham a hashtag em questão.
 
 ## Links para esta Página
 

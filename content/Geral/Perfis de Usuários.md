@@ -36,7 +36,7 @@ Ações que são **exclusivas deste perfil**:
 - Elaborar minutas de [[Elaborar Documento Interno|documento interno]]
 
 <u>Além dos membros</u>, também são o único perfil capaz de:
-- Autuar Notícias de Fato [[Legados X Nato Digitais#Nato Digitais|nato digitais]] **não sigilosas**
+- Autuar Notícias de Fato [[Legados X Nato Digitais#Nato Digitais|nato digitais]] **não sigilosas e que não contenham um despacho já elaborado**
 - [[Configurar o Endereço e Telefone|Alterar o endereço e telefone do órgão]]
 
 **Não** são capazes de:
