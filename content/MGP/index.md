@@ -10,4 +10,5 @@ tags:
 ```dataview
 list from "MGP"
 where file.name != "index"
+sort file.name asc
 ```

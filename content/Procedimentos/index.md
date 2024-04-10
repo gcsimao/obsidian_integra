@@ -11,4 +11,5 @@ review:
 ```dataview
 list from "Procedimentos"
 where file.name != "index"
+sort file.name asc
 ```

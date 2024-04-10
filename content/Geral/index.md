@@ -15,20 +15,22 @@ review: false
 9. [[Implantação e Migração]]
 10. [[Legados X Nato Digitais]]
 11. [[Login no Sistema]]
-12. [[O Sistema]]
-13. [[Obrigatoriedade de Uso]]
-14. [[Promotorias Elegíveis]]
-15. [[Tipos de Arquivos Suportados]]
-16. [[Tipos de Procedimentos]]
-17. [[Menu Lateral]]
-18. [[Microsoft Teams]]
-19. [[Número CNMP]]
-20. [[Perfis de Usuários]]
-21. [[Personagens]]
-22. [[Situação do Procedimento]]
+12. [[O Procedimento]]
+13. [[O Sistema]]
+14. [[Obrigatoriedade de Uso]]
+15. [[Promotorias Elegíveis]]
+16. [[Tipos de Arquivos Suportados]]
+17. [[Tipos de Procedimentos]]
+18. [[Menu Lateral]]
+19. [[Microsoft Teams]]
+20. [[Número CNMP]]
+21. [[Perfis de Usuários]]
+22. [[Personagens]]
+23. [[Situação do Procedimento]]
 
 ```dataview
 table from "Geral"
 where file.name != "index"
+sort file.name asc
 ```
 

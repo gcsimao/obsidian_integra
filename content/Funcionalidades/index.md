@@ -9,4 +9,5 @@ review:
 ```dataview
 table from "Funcionalidades"
 where file.name != "index"
+sort file.name asc
 ```

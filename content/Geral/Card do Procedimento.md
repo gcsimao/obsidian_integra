@@ -2,7 +2,6 @@
 title: Card do Procedimento
 tags:
   - layout
-  - caixaDeProcedimentos
 draft: false
 review:
 ---
