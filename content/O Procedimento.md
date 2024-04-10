@@ -15,9 +15,9 @@ Esta tela é subdividida em algumas áreas. Vejamos:
 
 ## Painel Esquerdo
 
-1. [[#Botões de Ação do Procedimento]]
-2. [[#Área de Informações e Alertas]]
-3. [[#Árvore de Documentos]]
+1. Botões de Ação do Procedimento
+2. Área de Informações e Alertas
+3. Árvore de Documentos
 
 
 ![[Procedimento - Painel Esquerdo.png]]
@@ -39,13 +39,13 @@ Utilizados para realizar várias ações e ter acesso a diversas funcionalidades
 Aqui são exibidas as informações básicas do procedimento, como:
 1.	[[Número CNMP|Número CNMP]] resumido
 2.	Objeto/Ementa (*exceto para Notícias de Fato*)
-3.	Alertas, *se aplicável*[^1]
+3.	Alertas, *se aplicável* [^1]
 4.	Descrição do Fato
 
 ![[Procedimento - área de informações.png]]*Área de informações*
 
 > [!tip] Dica
-> Ao clicar nas regiões 1, 2 ou 4, serão exibidos, no [[#Painel Direito]], os [[#Dados do Procedimento]]
+> Ao clicar nas regiões 1, 2 ou 4, serão exibidos, no Painel Direito, os Dados do Procedimento
 ### Árvore de Documentos
 
 Local onde os documentos do procedimento estarão dispostos e ordenados.
@@ -55,9 +55,9 @@ Local onde os documentos do procedimento estarão dispostos e ordenados.
 
 ## Painel Direito
 
-1.	[[#Dados do Procedimento]]
-2.	[[#Visualizador de Arquivos]]
-3.	[[#Outras Exibições]]
+1.	Dados do Procedimento
+2.	Visualizador de Arquivos
+3.	Outras Exibições
 
 ### Dados do Procedimento
 
