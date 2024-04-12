@@ -41,7 +41,7 @@ Se preferir, acesse as pastas abaixo:
 Acima do conteúdo, há a **barra de pesquisas**, que será muito útil para encontrar tudo o que você precisa, já que é uma pesquisa muito eficiente, varrendo todo o conteúdo do manual.
 
 > [!tip] Dica
-> A qualquer momento, utilize as teclas de atalhos "CTRL + K" para abrir a caixa de pesquisa.
+> A qualquer momento, utilize as teclas de atalhos "CTRL + L" para abrir a caixa de pesquisa.
 
 ## Alterar Tema
 

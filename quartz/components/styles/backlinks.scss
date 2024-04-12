@@ -1,5 +1,7 @@
 .backlinks {
   position: relative;
+  // overflow-y: auto;
+  // overflow-x: hidden;
 
   & > h3 {
     font-size: 1rem;

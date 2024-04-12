@@ -39,9 +39,12 @@ Para acessar a caixa procedimentos na situação "Rascunho", deve-se utilizar os
 Feita a confirmação, o procedimento agora constará da Caixa de Procedimento na situação "Em andamento".
 ### Permissões
 
-*Procedimentos legados/importados* só podem ser confirmados por um usuário com [[Perfis de Usuários#Membros|perfil de membro]].
+>[!attention] Atenção
+> *Procedimentos legados/importados* só podem ser confirmados por um usuário com [[Perfis de Usuários#Membros|perfil de membro]].
 
-Em *procedimentos nato digitais*, procedimentos formais devem ser confirmados pelos membro, enquanto **Notícias de Fato**, <u>desde que não sigilosas ou que contenham um despacho elaborado pelo membro</u>, **podem ser autuadas por servidores e assessores jurídicos.**
+Procedimentos formais devem sempre ser confirmados pelos membro
+
+**Notícias de Fato**, <u>desde que não sigilosas ou que contenham um despacho elaborado pelo membro</u>, **podem ser autuadas por servidores e assessores jurídicos.**
 
 ## Numeração CNMP e MPRJ
 

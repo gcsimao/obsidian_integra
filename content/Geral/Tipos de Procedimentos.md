@@ -8,6 +8,7 @@ Atualmente o sistema suporta 4 (quatro) tipos de procedimentos, tanto na [[Criar
 2.	Procedimentos Preparatórios (PP)
 3.	Inquéritos Civis (IC)
 4.	Procedimentos Administrativos (PA)
+5.	Procedimentos Investigatórios Criminais (PIC)
 
 >[!attention] Atenção
 ><u>Os procedimentos dos demais tipos</u>, tais como Ouvidorias[^1], Expedientes Administrativos, Procedimentos Investigatórios Criminais, Cartas Precatórias, Procedimentos Preparatórios Eleitorais etc., <u>devem ser tramitados pelos meios de praxe</u>.

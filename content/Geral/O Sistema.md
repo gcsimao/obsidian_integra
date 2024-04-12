@@ -4,7 +4,7 @@ tags:
 ---
 O Integra Extrajudicial é o sistema informatizado de gestão eletrônica de notícias de fato e demais [[Tipos de Procedimentos|procedimentos extrajudiciais]] da atividade finalística do  [Ministério Público do Estado do Rio de Janeiro](https://www.mprj.mp.br/) .
 
-Atualmente, a utilização do sistema é regulada pela [Resolução GPGJ N.º 2.584/2024](https://www.mprj.mp.br/documents/20184/4541307/26.03.2024.pdf#page=3), que instituiu a [[Obrigatoriedade de Uso|obrigatoriedade de uso]] para diversas Promotorias de Justiça.
+Atualmente, a utilização do sistema é regulada pela [Resolução GPGJ N.º 2.584/2024](https://www.mprj.mp.br/documents/20184/4655937/resolucao_2584.pdf), que instituiu a [[Obrigatoriedade de Uso|obrigatoriedade de uso]] para diversas Promotorias de Justiça.
 
 ## Vantagens
 

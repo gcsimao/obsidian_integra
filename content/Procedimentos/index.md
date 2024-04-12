@@ -6,6 +6,8 @@ review:
 ---
 1. [[Autuação e Instauração de Rascunhos]]
 2. [[Editar Rascunhos e Incluir Documentos]]
+3. [[Etiquetas]]
+4. [[Texto do Cartão]]
 
 
 ```dataview

@@ -4,11 +4,11 @@ draft: false
 tags:
   - "#legislacao"
 ---
-Por força da [Resolução GPGJ N.º 2.584/2024](https://www.mprj.mp.br/documents/20184/4541307/26.03.2024.pdf#page=3), desde 26 de março de 2024 o sistema se tornou de uso obrigatório em várias Promotorias de Justiça, que já estavam [[Promotorias Elegíveis|elegíveis]] ao uso.
+Por força da [Resolução GPGJ N.º 2.584/2024](https://www.mprj.mp.br/documents/20184/4655937/resolucao_2584.pdf), desde 26 de março de 2024 o sistema se tornou de uso obrigatório em várias Promotorias de Justiça, que já estavam [[Promotorias Elegíveis|elegíveis]] ao uso.
 
 ## Prazos de Implantação e Migração
 
-Os órgãos de execução já elegíveis, caso ainda não tenha sido cadastrados para a utilização do sistema[^1], deverão realizar a [[Configuração do Número Inicial da Portaria|implantação]][^2] do sistema até 31/05/2024 e [[Importar Procedimentos Legados|migrar seus procedimentos]] até 31/07/2024.
+Os órgãos de execução já elegíveis, caso ainda não tenham sido cadastrados para a utilização do sistema[^1], deverão realizar a [[Configuração do Número Inicial da Portaria|implantação]][^2] do sistema até 31/05/2024 e [[Importar Procedimentos Legados|migrar seus procedimentos]] até 31/07/2024.
 
 Promotorias que já haviam realizado a implantação do sistema, deverão realizar a migração até 31/05/2024.
 

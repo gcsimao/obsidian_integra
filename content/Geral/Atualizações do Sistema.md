@@ -23,6 +23,7 @@ O Integra Extrajudicial está em constante evolução a fim de atender às neces
 | 22/01/24 | 2.57   | Melhoria de performance                                                                                                                                                  |
 | 29/02/24 | 2.58   | [Integra Extrajudicial - Release Notes v2.58.pdf](https://mprj.sharepoint.com/:b:/s/dti-gsi-integraextr/ERcI28cScwBOviDqYSNq9PMBQbUb_h0vUUDBhZS-oe_1XQ?e=Q7ga38)         |
 | 19/03/24 | 2.59   | Procedimentos finalizados não mais contarão com os ícones de pendência de cumprimento e prazos de em ofícios, notificações e recomendações                               |
+| 04/04/24 | 2.60   | Acesso ao GATE, com perfil de visualização restrita                                                                                                                      |
 
 ___
 **Ver também:**

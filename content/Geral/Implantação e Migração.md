@@ -11,5 +11,5 @@ Uma Promotoria de Justiça terá o sistema efetivamente implementado a partir da
 A migração dos procedimentos se dá por meio da funcionalidade de [[Importar Procedimentos Legados|importação de procedimentos legados]].
 
 >[!attention] Atenção
->Consoante o art. 3º, § único da Res. 2.584/2024, os procedimentos tramitando há mais de 3 anos a partir da publicação da norma, terão sua migração facultativa.
+>Consoante o art. 3º, § único da [Res. 2.584/2024](https://www.mprj.mp.br/documents/20184/4655937/resolucao_2584.pdf), os procedimentos tramitando há mais de 3 anos a partir da publicação da norma, terão sua migração facultativa.
 

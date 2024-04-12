@@ -20,7 +20,8 @@ Ao clicar no botão de juntada, ou caso seja um rascunho legado, no painel direi
 
 ## Classificar Documentos
 
-Selecionados os arquivos, estes serão carregados no painel direito do procedimento para classificação.
+Selecionados os arquivos, estes serão carregados no painel direito do procedimento para classificação. 
+
 ![[Rascunho - Classificar arquivos.png]]*Classificação de arquivos*
 ### Nato Digitais
 
@@ -53,7 +54,7 @@ Nestes procedimentos há uma gama maior de classificação, sendo ela[^1]:
 
 >[!attention] Atenção
 >Nos procedimentos legados, **apenas é possível a inclusão de PDFs**, por ora.
->Caso queira incluir outras mídias, tal inclusão deverá ser feita após a confirmação da importação.
+>Caso queira incluir outras mídias, tal inclusão poderá ser feita após a confirmação da importação ou, *alternativamente*, como descrito [[Inclusão de Arquivos Não Suportados|aqui]].
 
 ## Alterar a Ordenação da Árvore
 
@@ -72,11 +73,15 @@ A qualquer momento é possível editar as informações do procedimento, antes d
 
 Para isso, basta clicar sobre os campos e realizar a edição.
 
->[!attention] Atenção 
->**Não esqueça de salvar as alterações ao final da tela.**
+> [!info] Informação
+>  Para saber mais sobre personagens, [[Personagens|clique aqui]].
 
 
 ![[Rascunho - Edição dados básicos.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
+
+>[!attention] Atenção 
+>Não esqueça de salvar as alterações ao final da tela.
+
 
 > [!tip] Dica
 > Caso após a juntada de um documento, o painel direito fique vazio, clique no ícone de informação, à direito do número do procedimento, para voltar à tela de dados básicos do procedimento.
