@@ -4,4 +4,4 @@ tags:
 draft: false
 review:
 ---
-Funcionalidade que ajudam e facilitação a organização e gestão do órgão.
+Funcionalidades que ajudam e facilitação a organização e gestão do órgão.
