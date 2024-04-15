@@ -8,7 +8,7 @@ review:
 ---
 No primeiro [[Login no Sistema|acesso ao sistema]], todos os usuários, independentemente do [[Perfis de Usuários|perfil]], irão se deparar com a tela mostrada abaixo. Entretanto, **somente membros serão capazes de salvar e confirmar** a informação inserida.
 
-![[../_images/Configuração - Portaria.png]]
+![[Configuração - Portaria.png]]
 
 >[!danger] Cuidado
 >* Leia atentamente o aviso exibido na tela, pois após a confirmação não será possível alterar a numeração pelo sistema, sendo necessário abrir um chamado via [[Helpdesk]]
@@ -39,5 +39,8 @@ Caso o órgão utilize numerações distintas para cada um de seus tipos de proc
 2. Considerar o maior número mais das Portarias já instauradas (**recomendado**).
 3. Configurar o número inicial como 1 (um) e **tratar as Portarias geradas de maneira eletrônica de forma distinta** dos [[Físicos X Eletrônicos#Procedimentos Físicos|procedimento físicos]], preferencialmente adotando nas Portarias antigas alguma padronização que as distinga, como PA 0001-**F**/2023, por exemplo.
 
+## Como fazer
+
+![[Configurar número da portaria.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
 
 [^1]: Válido apenas para procedimentos formais, instaurado por Portaria.

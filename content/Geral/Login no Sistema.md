@@ -29,9 +29,9 @@ Realize o login com seu nome de usuário e senha, que são os mesmos utilizados 
 > 
 ## Aplicações do Portal
 
-Após, basta clicar em seu avatar para acessar as aplicações e sistema do portal e selecionar "Extrajudicial"
+Após, basta clicar em seu avatar para acessar as aplicações do portal e selecionar o sistema "Extrajudicial"
 
-![[../_images/Login no sistema.png]]*Avatar e aplicações do portal*
+![[Login no sistema.png]]*Avatar e aplicações do portal*
 
 Feito isso, você será redirecionado para a [[Caixa de Procedimentos|Caixa de Procedimentos]] ou, *caso lotado/designado em mais de um órgão*, será instado a [[Selecionar Órgão de Atuação|selecionar o órgão de atuação]].
 ## Problemas de Acesso
@@ -40,7 +40,7 @@ Quaisquer problemas de acesso ao sistema devem ser resolvidos pelo [[Helpdesk]].
 
 ## Como fazer
 
-![[../_images/Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
+![[Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
 
 
 

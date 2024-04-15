@@ -64,8 +64,12 @@ Informações que serão atualizadas e/ou integradas ao MGP:
 > Devido à [[Bloqueio no MGP|bloqueios realizados no MGP]] quando o procedimento é eletrônico, não será possível complementar as informações acima naquele sistema.
 > As modificações deverão ser realizadas pelo Integra Extrajudicial, seja pela [[Editar Dados da NF|edição de NF]] ou [[Aditar Portaria|aditamento de portaria]].
 
+## Termo Final de Conclusão do Procedimento
+
+Confirmada a autuação, o prazo final do procedimento será automaticamente atribuído em procedimentos nato digitais (de acordo com seu tipo) ou será a data escolhida durante a importação (mais detalhes em [[Prorrogar Procedimento|Prorrogar Procedimento]]).
 ## Como fazer
 ![[Rascunho - confirmar autuação instauração.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></p>
+
 
 [^1]: Nos procedimentos que não exigem Portarias, o botão se chamará AUTUAR.
 [^2]: Há casos de [[Reimportação de Procedimentos|Reimportação de Procedimentos]] em que o procedimento importado já possui tal numeração.

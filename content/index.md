@@ -73,7 +73,7 @@ Ao final, do lado direito, há o link de todas as páginas que fazem referência
 
 Sempre que houve um pequeno vídeo demostrando uma funcionalidade do sistema, você pode repousar o mouse sobre ele para ampliar a visualização.
 
-![[_images/Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></P>
+![[Login.gif]]<p style="font-size: 1.2em;">↗️ <em style="font-size: small;">Passe o mouse para ampliar</em></P>
 ## Quadros Informativos
 
 Ao longo do manual, como já vimos acima, temos quadros de **dicas, alertas de atenção e informações adicionais.**

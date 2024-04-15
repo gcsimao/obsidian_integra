@@ -23,7 +23,7 @@ As mudanças e atualizações são muito dinâmicas, então é muito importante 
 
 > [!tip] Dica
 > Sempre que tiver dúvidas sobre qual a versão do sistema, repouse o mouse sobre a logo do Extrajudicial!
-> ![[../_images/Versão do sistema.png]]
+> ![[Versão do sistema.png]]
 
 ___
 

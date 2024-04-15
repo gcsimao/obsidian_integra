@@ -12,13 +12,13 @@ No primeiro grupo, entram os Promotores e Procuradores de Justiça; no segundo, 
 > Colabores terceirizados não possuem acesso ao sistema.
 
 Para verificar qual o seu perfil, clique no avatar localizado na [[Barra de Ações do Sistema|barra superior do sistema]].
-![[../_images/Perfil de usuário.png]] *Avatar: Perfil de usuário*
+![[Perfil de usuário.png]] *Avatar: Perfil de usuário*
 Veremos adiante os perfis em detalhes.
 ## Membros
 
 Possuem perfil  "promotor" ou "procurador", podem visualizar [[Decretar Levantar Sigilo|procedimentos sigilosos]] e podem realizar a maioria das **ações** do sistema. Porém, algumas são **exclusivas deste perfil**, sendo elas:
 - Confirmar o [[Configuração do Número Inicial da Portaria|número inicial das Portarias de Instauração]]
-- [[Assinar Confirmar Minutas|Assinar]] minutas de Promoções Ministeriais
+- [[Elaborar Minutas|Assinar]] minutas de Promoções Ministeriais
 - [[Desentranhar Documentos|Desentranhar]] documentos e visualizar o documento que foi desentranhado
 - Autuar ou Instaurar [[Importar Procedimentos Legados|procedimentos legados]]
 - Instaurar procedimentos formais (PP, IC, PIC e PA) [[Criar Procedimento|criados]] no Integra Extra
@@ -51,7 +51,7 @@ Possuem o perfil "residente_juridico" e possuem algumas limitações em relaçã
 - Não podem confirmar nenhum documento na [[Árvore de Documentos|árvore de documentos]] dos procedimentos
 - Visualização restrita de procedimentos sigilosos
 
-![[../_images/Card sigiloso.png]] *Visualização restrita de sigilosos*
+![[Card sigiloso.png]] *Visualização restrita de sigilosos*
 
 Com anuência da chefia imediata e por solicitação feita ao [[Helpdesk|Helpdesk]], poderá ser concedido o perfil "analista_promotor" ao residente jurídico lotado no órgão.
 
