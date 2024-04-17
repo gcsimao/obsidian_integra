@@ -21,7 +21,7 @@ O layout do card está dividido em vários elementos, cada uma tendo sua funcion
 2. [[Número CNMP|Número CNMP]] resumido
 3. Botão para copiar o número CNMP completo
 4. Exibição da [[Situação do Procedimento|Situação do Procedimento]]
-5. Área de [[Ícones do Card|Ícones do Card]]
+5. Área de [[Icones do Card|Icones do Card]]
 6. [[Data e Contador de Dias|Data e Contador de Dias]]
 7. [[Texto do Cartão|Texto do Cartão]]
 8. [[Etiquetas|Etiquetas]] do procedimento

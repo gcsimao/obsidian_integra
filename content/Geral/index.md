@@ -12,7 +12,7 @@ review: false
 6. [[Configurar o Endereço e Telefone]]
 7. [[Físicos X Eletrônicos]]
 8. [[Helpdesk]]
-9. [[Ícones do Card]]
+9. [[Icones do Card]]
 10. [[Implantação e Migração]]
 11. [[Legados X Nato Digitais]]
 12. [[Login no Sistema]]

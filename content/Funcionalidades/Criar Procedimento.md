@@ -104,7 +104,7 @@ Após preenchidos todos os dados básicos, clique em SALVAR ao final da tela.
 
 Neste momento, o usuário será direcionado para dentro do [[O Procedimento|procedimento]], que ainda estará sobre a forma de [[Rascunhos|rascunho]].
 
-Para concluir a autuação/instauração, será necessária a inclusão de documentos para compor a [[Árvore de Documentos|árvore do procedimento]].
+Para concluir a autuação/instauração, será necessária a inclusão de documentos para compor a [[Arvore de Documentos|árvore do procedimento]].
 
 
 ## Como fazer

@@ -51,7 +51,7 @@ Aqui são exibidas as informações básicas do procedimento, como:
 Local onde os documentos do procedimento estarão dispostos e ordenados.
 
 > [!info] Informação
-> Mais detalhes [[Árvore de Documentos|aqui!]]
+> Mais detalhes [[Arvore de Documentos|aqui!]]
 
 ## Painel Direito
 

@@ -4,7 +4,7 @@ tags:
 draft: false
 review:
 ---
-1. [[Árvore de Documentos]]
+1. [[Arvore de Documentos]]
 2. [[Autuação e Instauração de Rascunhos]]
 3. [[Card do Procedimento]]
 4. [[Editar Rascunhos e Incluir Documentos]]

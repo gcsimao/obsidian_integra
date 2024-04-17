@@ -4,7 +4,7 @@ tags:
 draft: false
 review:
 ---
-Após [[Criar Procedimento#Salvando o Rascunho|salvar os dados na criação de um procedimento]] ou após [[Importar Procedimentos Legados|importar um procedimento]], o procedimento estará ainda na situação de [[Rascunhos|rascunho]] e deverão ser incluídos os documentos na [[Árvore de Documentos|árvore]] para confirmar a [[Autuação e Instauração de Rascunhos|autuação ou instauração]].
+Após [[Criar Procedimento#Salvando o Rascunho|salvar os dados na criação de um procedimento]] ou após [[Importar Procedimentos Legados|importar um procedimento]], o procedimento estará ainda na situação de [[Rascunhos|rascunho]] e deverão ser incluídos os documentos na [[Arvore de Documentos|árvore]] para confirmar a [[Autuação e Instauração de Rascunhos|autuação ou instauração]].
 
 ## Adicionar Documentos
 

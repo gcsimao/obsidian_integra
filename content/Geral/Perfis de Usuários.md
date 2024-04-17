@@ -48,7 +48,7 @@ Ações que são **exclusivas deste perfil**:
 
 Possuem o perfil "residente_juridico" e possuem algumas limitações em relação ao perfil "analista_promotor" concedido aos servidores, tais como:
 - Não são capazes de [[Configurar o Endereço e Telefone|Configurar o Endereço e Telefone]]
-- Não podem confirmar nenhum documento na [[Árvore de Documentos|árvore de documentos]] dos procedimentos
+- Não podem confirmar nenhum documento na [[Arvore de Documentos|árvore de documentos]] dos procedimentos
 - Visualização restrita de procedimentos sigilosos
 
 ![[Card sigiloso.png]] *Visualização restrita de sigilosos*
