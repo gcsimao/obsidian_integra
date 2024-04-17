@@ -3,12 +3,14 @@ title: MGP
 draft: false
 tags:
 ---
-1. [[Integração com o MGP]]
-2. [[Tabela de Integração com o MGP]]
+1. [[Bloqueio no MGP]]
+2. [[Integração com o MGP]]
+3. [[Requisitos para Importação]]
+4. [[Tabela de Integração com o MGP]]
 
 
 ```dataview
-list from "MGP"
+table from "MGP"
 where file.name != "index"
 sort file.name asc
 ```

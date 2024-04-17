@@ -4,14 +4,18 @@ tags:
 draft: false
 review:
 ---
-1. [[Autuação e Instauração de Rascunhos]]
-2. [[Editar Rascunhos e Incluir Documentos]]
-3. [[Etiquetas]]
-4. [[Texto do Cartão]]
+1. [[Árvore de Documentos]]
+2. [[Autuação e Instauração de Rascunhos]]
+3. [[Card do Procedimento]]
+4. [[Editar Rascunhos e Incluir Documentos]]
+5. [[Etiquetas]]
+6. [[O Procedimento]]
+7. [[Procedimentos Apensos]]
+8. [[Texto do Cartão]]
 
 
 ```dataview
-list from "Procedimentos"
+table from "Procedimentos"
 where file.name != "index"
 sort file.name asc
 ```

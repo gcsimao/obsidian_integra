@@ -80,6 +80,13 @@ Não é possível importar procedimentos que contenham apensos no MGP, sendo *ne
 
 Para mais informações sobre apensos, [[Procedimentos Apensos|clique aqui]].
 
+## Outros Vínculos no MGP
+
+Demais vínculos no MGP, como anexo e juntada, não necessitam ser alterados. Entretanto, o Sistema não trará nenhum informação a respeito desses vínculos.
+
+>[!attention] Atenção
+>Ficará sob responsabilidade dos usuários incluir os PDFs correspondentes aos documentos vinculados no MGP, como é o caso de Expedientes Administrativos juntados ao procedimentos, Notícias de Fato e demais anexos.
+
 ## Mídias
 
 Por ora, na inclusão de documentos na árvore de procedimento importados, apenas são aceitos arquivos no formato PDF.
